@@ -1,0 +1,2130 @@
+{{Short description|none}}
+{{More citations needed|date=September 2014}}
+{{Use American English|date=March 2026}}
+{{Use mdy dates|date=February 2025}}
+
+This is a '''list of ''[[Reading Rainbow]]'' episodes''', hosted by longtime executive producer [[LeVar Burton]]. The show premiered on [[PBS Kids|PBS]] on July 11, 1983.<ref>{{Cite web |last=Wagstaff |first=Keith |date=2014-06-03 |title=Even LeVar Burton can’t get the ‘Reading Rainbow’ song out of his head |url=http://www.today.com/popculture/even-levar-burton-cant-get-reading-rainbow-song-out-his-2D79749040 |access-date=2023-06-19 |website=[[Today (American TV program)|Today]] |language=en}}</ref><ref>{{Cite web |last=Stone |first=Madeline |date=2014-06-17 |title=Here's Why 'Reading Rainbow' Was The Best Kids' TV Show Ever |url=https://www.businessinsider.com/what-is-reading-rainbow-2014-6 |access-date=2023-06-19 |website=[[Business Insider]] |language=en-US}}</ref> The final episode aired on November 10, 2006, reruns ceased on August 28, 2009. On June 20, 2012, an app for the show was released. On October 4, 2025, the show was revived, now hosted by [[Mychal Threets]].
+
+==Episodes==
+===Season 1 (1983)===
+All episodes this season were directed by Larry Lancit.
+{{Episode table |overall= |season= |title= |writer= |aux2= |aux2T=Narrated by |airdate= |prodcode= |episodes=
+{{Episode list
+| EpisodeNumber   = 1
+| EpisodeNumber2  = 1
+| Title           = Tight Times
+| WrittenBy       = [[Ellen Schecter]]
+| Aux2            = [[Patrick McCaffrey]]
+| OriginalAirDate = {{Start date|1983|7|11}}
+| ProdCode        = 101
+| ShortSummary    = Feature Book: Tight Times by Barbara Shook Hazen, pictures by Trina Schart Hyman
+Review Books: When I Was Young in the Mountains by Cynthia Rylant, illustrated by Diane Goode; Pet Show! by Ezra Jack Keats; The Terrible Thing That Happened at Our House by Marge Blaine, pictures by John C. Wallner
+}}
+{{Episode list
+| EpisodeNumber   = 2
+| EpisodeNumber2  = 2
+| Title           = Miss Nelson is Back
+| WrittenBy       = [[Ellen Schecter]]
+| Aux2            = [[Ruth Buzzi]]
+| OriginalAirDate = {{Start date|1983|7|12}}
+| ProdCode        = 102
+| ShortSummary    = Feature Book: Miss Nelson is Back by Harry Allard and James Marshall
+Review Books: Grandmama's Joy by Eloise Greenfield, illustrated by Carole Byard; Daddy is a Monster...Sometimes by John Steptoe; Harlequin and the Gift of Many Colors by Remy Charlip and Burton Supree
+}}
+{{Episode list
+| EpisodeNumber   = 3
+| EpisodeNumber2  = 3
+| Title           = Bea and Mr. Jones
+| WrittenBy       = [[Ellen Schecter]]
+| Aux2            = [[Madeline Kahn]]
+| OriginalAirDate = {{Start date|1983|7|13}}
+| ProdCode        = 103
+| ShortSummary    = Feature Book: Bea and Mr. Jones by Amy Schwartz
+Review Books: Max by Rachel Isadora; There's a Nightmare in My Closet by Mercer Mayer; The Ugly Duckling by Hans Christian Andersen, retold and illustrated by Lorinda Bryan Cauley
+}}
+{{Episode list
+| EpisodeNumber   = 4
+| EpisodeNumber2  = 4
+| Title           = Bringing the Rain to Kapiti Plain
+| WrittenBy       = [[Lou Berger]]
+| Aux2            = [[James Earl Jones]]
+| OriginalAirDate = {{Start date|1983|7|14}}
+| ProdCode        = 104
+| ShortSummary    = Feature Book: Bringing the Rain to Kapiti Plain by Verna Aardema, pictures by Beatriz Vidal
+Review Books: The Cloud Book by Tomie de Paola; Rain by Peter Spier; A Story, a Story by Gail E. Haley
+}}
+{{Episode list
+| EpisodeNumber   = 5
+| EpisodeNumber2  = 5
+| Title           = Louis the Fish
+| WrittenBy       = [[Lou Berger]]
+| Aux2            = [[Vincent Gardenia]]
+| OriginalAirDate = {{Start date|1983|7|15}}
+| ProdCode        = 105
+| ShortSummary    = Feature Book: Louis the Fish by Arthur Yorinks, pictures by Richard Egielski
+Review Books: Where the Wild Things Are by Maurice Sendak; A Fish Hatches by Joanna Cole and Jerome Wexler; One Monday Morning by Uri Shulevitz
+}}
+{{Episode list
+| EpisodeNumber   = 6
+| EpisodeNumber2  = 6
+| Title           = [[Digging Up Dinosaurs]]
+| WrittenBy       = [[Lou Berger]]
+| Aux2            = [[Linda Gelman]]
+| OriginalAirDate = {{Start date|1983|7|18}}
+| ProdCode        = 106
+| ShortSummary    = Feature Book: Digging Up Dinosaurs by Aliki
+
+[[Jerry Stiller]] guest stars as the voice of a dinosaur comedian.
+
+Review Books: Dinosaur Time by Peggy Parish, pictures by Arnold Lobel; If You Are a Hunter of Fossils by Byrd Baylor, illustrated by Peter Parnall; Dinosaurs!: A Drawing Book by Michael Emberley
+}}
+{{Episode list
+| EpisodeNumber   = 7
+| EpisodeNumber2  = 7
+| Title           = [[Liang and the Magic Paintbrush]]
+| WrittenBy       = [[Ellen Schecter]]
+| Aux2            = [[Lauren Tom]]
+| OriginalAirDate = {{Start date|1983|7|19}}
+| ProdCode        = 107
+| ShortSummary    = Feature Book: Liang and the Magic Paintbrush by Demi
+Review Books: Emma by Wendy Kesselman, illustrated by Barbara Cooney; Ben's Trumpet by Rachel Isadora; If You Take a Pencil by Fulvio Testa
+}}
+{{Episode list
+| EpisodeNumber   = 8
+| EpisodeNumber2  = 8
+| Title           = [[Gila Monsters Meet You at the Airport]]
+| WrittenBy       = [[Ellen Schecter]]
+| Aux2            = [[Douglas Parvin]]
+| OriginalAirDate = {{Start date|1983|7|20}}
+| ProdCode        = 108
+| ShortSummary    = Feature Book: Gila Monsters Meet You at the Airport by Marjorie Weinman Sharmat, pictures by Byron Barton
+Review Books: Peter's Chair by Ezra Jack Keats; The Big Hello by Janet Schulman, illustrated by Lillian Hoban; Mitchell is Moving by Marjorie Weinman Sharmat, pictures by Jose Aruego and Ariane Dewey
+}}
+{{Episode list
+| EpisodeNumber   = 9
+| EpisodeNumber2  = 9
+| Title           = [[Three Days on a River in a Red Canoe]]
+| WrittenBy       = [[Ellen Schecter]]
+| Aux2            = [[Carolyn McMahon]]
+| OriginalAirDate = {{Start date|1983|7|21}}
+| ProdCode        = 109
+| ShortSummary    = Feature Book: Three Days on a River in a Red Canoe
+Review Books: Worlds to Explore; Today We Are Brother and Sister; Anno's Journey
+}}
+{{Episode list
+| EpisodeNumber   = 10
+| EpisodeNumber2  = 10
+| Title           = [[The Gift of the Sacred Dog]]
+| WrittenBy       = [[Ellen Schecter]]
+| Aux2            = [[Michael Ansara]]
+| OriginalAirDate = {{Start date|1983|7|22}}
+| ProdCode        = 110
+| ShortSummary    = Feature Book: The Gift of the Sacred Dog
+Review Books: Moonsong Lullaby; Why Mosquitoes Buzz in People's Ears; Suho and the White Horse
+}}
+{{Episode list
+| EpisodeNumber   = 11
+| EpisodeNumber2  = 11
+| Title           = [[Gregory the Terrible Eater]]
+| WrittenBy       = [[Mark Saltzman]]
+| Aux2            = [[Marilyn Michaels]]
+| OriginalAirDate = {{Start date|1983|7|25}}
+| ProdCode        = 111
+| ShortSummary    = Feature Book: Gregory the Terrible Eater by Mitchell Sharmat, illustrated by Jose Aruego and Ariane Dewey
+Review Books: Mrs. Pig's Bulk Buy by Mary Rayner; Better Homes and Gardens New Junior Cook Book; Poem Stew selected by William Cole, pictures by Karen Ann Weinhaus
+}}
+{{Episode list
+| EpisodeNumber   = 12
+| EpisodeNumber2  = 12
+| Title           = [[Three by the Sea]]
+| WrittenBy       = [[Ellen Schecter]]
+| Aux2            = [[Chicago City Limits]]
+| OriginalAirDate = {{Start date|1983|7|26}}
+| ProdCode        = 112
+| ShortSummary    = Feature Book: Three by the Sea
+Review Books: Regards to the Man in the Moon; Frog and Toad Together; Come Away from the Water, Shirley
+}}
+{{Episode list
+| EpisodeNumber   = 13
+| EpisodeNumber2  = 13
+| Title           = [[Arthur's Eyes]]
+| WrittenBy       = [[Ellen Schecter]]
+| Aux2            = [[Bill Cosby]]
+| OriginalAirDate = {{Start date|1983|7|27}}
+| ProdCode        = 113
+| ShortSummary    = Feature Book: Arthur's Eyes
+Review Books: A Show of Hands; Through Grandpa's Eyes; Is This a Baby Dinosaur?
+}}
+{{Episode list
+| EpisodeNumber   = 14
+| EpisodeNumber2  = 14
+| Title           = [[The Day Jimmy's Boa Ate the Wash]]
+| WrittenBy       = [[Mark Saltzman]]
+| Aux2            = [[Kaleena Kiff]] and [[Laura Hicks]]
+| OriginalAirDate = {{Start date|1983|7|28}}
+| ProdCode        = 114
+| ShortSummary    = Feature Book: The Day Jimmy's Boa Ate the Wash by Trinka Hakes Noble, pictures by Steven Kellogg
+Review Books: Alexander and the Terrible, Horrible, No Good, Very Bad Day by Judith Viorst, illustrated by Ray Cruz; "Could Be Worse!" by James Stevenson; Crictor by Tomi Ungerer
+}}
+{{Episode list
+| EpisodeNumber   = 15
+| EpisodeNumber2  = 15
+| Title           = [[Ty's One-Man Band]]
+| WrittenBy       = [[Ellen Schecter]]
+| Aux2            = [[Lou Rawls]]
+| OriginalAirDate = {{Start date|1983|7|29}}
+| ProdCode        = 115
+| ShortSummary    = Feature Book: Ty's One-Man Band by Mildred Pitts Walter, illustrations by Margot Tomes
+Review Books: The Banza by Diane Wolkstein, pictures by Marc Brown; The Amazing Bone by William Steig; Making Musical Things by Ann Wiseman
+}}
+}}
+
+===Season 2 (1984)===
+All episodes this season were directed by Larry Lancit.
+{{Episode table |overall= |season= |title= |writer= |aux2= |aux2T=Narrated by |airdate= |prodcode= |episodes=
+{{Episode list
+| EpisodeNumber   = 16
+| EpisodeNumber2  = 1
+| Title           = [[Hot-Air Henry]]
+| WrittenBy       = [[Ellen Schecter]]
+| Aux2            = [[William Windom (actor)|William Windom]]
+| OriginalAirDate = {{Start date|1984|7|16}}
+| ProdCode        = 201
+| ShortSummary    = Feature Book: Hot-Air Henry by Mary Calhoun, illustrated by Erick Ingraham
+Review Books: Easy-to-Make Spaceships that Really Fly by Mary and Dewey Blocksma, illustrated by Marisabina Russo; The Big Balloon Race by Eleanor Coerr, pictures by Carolyn Croll; Just Us Women by Jeannette Caines, illustrated by Pat Cummings
+}}
+{{Episode list
+| EpisodeNumber   = 17
+| EpisodeNumber2  = 2
+| Title           = [[Simon's Book]]
+| WrittenBy       = [[Ellen Schecter]]
+| Aux2            = [[Ruby Dee]]
+| OriginalAirDate = {{Start date|1984|7|17}}
+| ProdCode        = 202
+| ShortSummary    = Feature Book: Simon's Book by Henrik Drescher
+
+LeVar meets the author, [[Henrik Drescher]], and learns how books are made.
+
+Review Books: Begin at the Beginning by Amy Schwartz; What's Under My Bed? by James Stevenson; Me and Neesie by Eloise Greenfield, illustrated by Moneta Barnett
+}}
+{{Episode list
+| EpisodeNumber   = 18
+| EpisodeNumber2  = 3
+| Title           = [[Ox-Cart Man]]
+| WrittenBy       = [[Ronnie Krauss]] & [[Ellen Schecter]]
+| Aux2            = [[Lorne Greene]]
+| OriginalAirDate = {{Start date|1984|7|18}}
+| ProdCode        = 203
+| ShortSummary    = Feature Book: Ox-Cart Man by Donald Hall, pictures by Barbara Cooney
+Review Books: Round Trip by Ann Jonas; A Winter Place by Ruth Yaffe Radin, paintings by Mattie Lou O'Kelley; Wagon Wheels by Barbara Brenner, pictures by Don Bolognese
+}}
+{{Episode list
+| EpisodeNumber   = 19
+| EpisodeNumber2  = 4
+| Title           = [[Mystery on the Docks]]
+| WrittenBy       = [[Ellen Schecter]]
+| Aux2            = [[Raul Julia]]
+| OriginalAirDate = {{Start date|1984|7|19}}
+| ProdCode        = 204
+| ShortSummary    = Feature Book: Mystery on the Docks
+Review Books: Big City Port; The Wreck of the Zephyr; Nate the Great Mystery series
+}}
+{{Episode list
+| EpisodeNumber   = 20
+| EpisodeNumber2  = 5
+| Title           = [[A Chair for My Mother]]
+| WrittenBy       = [[Ellen Schecter]]
+| Aux2            = [[Amy Linker]]
+| OriginalAirDate = {{Start date|1984|7|20}}
+| ProdCode        = 205
+| ShortSummary    = Feature Book: A Chair for My Mother by Vera B. Williams
+Review Books: My Mama Needs Me by Mildred Pitts Walter, pictures by Pat Cummings; I Have a Sister, My Sister is Deaf by Jeanne Whitehouse Peterson, pictures by Deborah Kogan Ray; Everett Anderson's Goodbye by Lucille Clifton, illustrated by Ann Grifalconi
+}}
+}}
+
+===Season 3 (1985)===
+All episodes this season were directed by Larry Lancit.
+{{Episode table |overall= |season= |title= |writer= |aux2= |aux2T=Narrated by |airdate= |prodcode= |episodes=
+{{Episode list
+| EpisodeNumber   = 21
+| EpisodeNumber2  = 1
+| Title           = [[Paul Bunyan]]
+| WrittenBy       = [[Lydia Wilen]]
+| Aux2            = [[Buddy Ebsen]]
+| OriginalAirDate = {{Start date|1985|6|24}}
+| ProdCode        = 301
+| ShortSummary    = Feature Book: Paul Bunyan
+Review Books: The Legend of the Bluebonnet; Whale in the Sky; The Star-Spangled Banner
+}}
+{{Episode list
+| EpisodeNumber   = 22
+| EpisodeNumber2  = 2
+| Title           = [[The Patchwork Quilt]]
+| WrittenBy       = [[Ellen Schecter]]
+| Aux2            = [[Isabel Sanford]]
+| OriginalAirDate = {{Start date|1985|6|25}}
+| ProdCode        = 302
+| ShortSummary    = Feature Book: The Patchwork Quilt
+Review Books: Being Adopted; Angel Child, Dragon Child; The Two of Them
+}}
+{{Episode list
+| EpisodeNumber   = 23
+| EpisodeNumber2  = 3
+| Title           = [[Hill of Fire]]
+| WrittenBy       = [[Ronnie Krauss]]
+| Aux2            = [[Fernando Escandon]]
+| OriginalAirDate = {{Start date|1985|6|26}}
+| ProdCode        = 303
+| ShortSummary    = Feature Book: Hill of Fire
+Review Books: Emma's Dragon Hunt; Ed Emberley's Science Flip Books; The Tamarindo Puppy and Other Poems
+}}
+{{Episode list
+| EpisodeNumber   = 24
+| EpisodeNumber2  = 4
+| Title           = [[The Tortoise and the Hare]]
+| WrittenBy       = [[Ellen Schecter]]
+| Aux2            = [[Gilda Radner]]
+| OriginalAirDate = {{Start date|1985|6|27}}
+| ProdCode        = 304
+| ShortSummary    = Feature Book: The Tortoise and the Hare
+Review Books: Albert the Running Bear's Exercise Book; Hooray for Snail!; Sam Johnson and the Blue Ribbon Quilt
+}}
+{{Episode list
+| EpisodeNumber   = 25
+| EpisodeNumber2  = 5
+| Title           = [[Perfect the Pig]]
+| WrittenBy       = [[Lydia Wilen]]
+| Aux2            = [[James Coco]]
+| OriginalAirDate = {{Start date|1985|6|28}}
+| ProdCode        = 305
+| ShortSummary    = Feature Book: Perfect the Pig
+Review Books: The Bionic Bunny Show; Hector the Accordion-Nosed Dog; Poinsettia and Her Family
+}}
+}}
+
+===Season 4A (1985-86)===
+All episodes were directed by Hugh Martin.
+{{Episode table |overall= |season= |title= |writer= |aux2= |aux2T=Narrated by |airdate= |prodcode= |episodes=
+{{Episode list
+| EpisodeNumber   = 26
+| EpisodeNumber2  = 1
+| Title           = [[Animal Cafe]]
+| WrittenBy       = [[Mark Saltzman]]
+| Aux2            = [[Martin Short]] (Season 3 leftover)
+| OriginalAirDate = {{Start date|1986|6|23}}
+| ProdCode        = 306
+| ShortSummary    = Feature Book: Animal Cafe
+Review Books: The Dream Eater; The Moon; Night Markets: Bringing Food to a City<ref>{{cite web|url=http://imageshack.com/i/f7q5wkp|title=Reading Rainbow - Animal Cafe (1985).png - Click to see more photos|website=ImageShack|accessdate=12 February 2019}}</ref>
+}}
+{{Episode list
+| EpisodeNumber   = 27
+| EpisodeNumber2  = 2
+| Title           = [[Alistair in Outer Space]]
+| WrittenBy       = [[Ronnie Krauss]]
+| Aux2            = [[Arnold Stang]]
+| OriginalAirDate = {{Start date|1986|6|24}}
+| ProdCode        = 307
+| ShortSummary    = Feature Book: Alistair in Outer Space
+Review Books: Maps and Globes; Commander Toad series; Check It Out!: The Book About Libraries
+}}
+{{Episode list
+| EpisodeNumber   = 28
+| EpisodeNumber2  = 3
+| Title           = [[Feelings (Aliki book)|Feelings]]
+| WrittenBy       = [[Ellen Schecter]]
+| Aux2            = [[Raima Evans]], [[Jessica Mercado]], [[Laura Haymann]], [[Paul Sidoriak]], [[Jonathan Rose]], [[Timothy Oakes]], [[Jerry David]], and [[Pamela Stogner]]
+| OriginalAirDate = {{Start date|1986|6|25}}
+| ProdCode        = 308
+| ShortSummary    = Feature Book: Feelings by Aliki
+Review Books: Fireflies! by Julie Brinckloe; Loudmouth George and the Sixth-Grade Bully by Nancy Carlson; Honey, I Love and Other Love Poems by Eloise Greenfield, pictures by Diane and Leo Dillon
+}}
+{{Episode list
+| EpisodeNumber   = 29
+| EpisodeNumber2  = 4
+| Title           = [[Watch the Stars Come Out]]
+| WrittenBy       = [[Peter Barton (screenwriter)|Peter Barton]]
+| Aux2            = [[Laura Haymann]] (Season 3 leftover)
+| OriginalAirDate = {{Start date|1986|6|26}}
+| ProdCode        = 309
+| ShortSummary    = Feature Book: Watch the Stars Come Out by Riki Levinson, illustrated by Diane Goode
+Review Books: The Island of the Skog by Steven Kellogg; The Long Way to a New Land by Joan Sandin; Molly's Pilgrim by Barbara Cohen, illustrated by Michael J. Deraney<ref>{{cite web|url=http://imageshack.com/i/f2piqmp|title=Reading Rainbow - Watch the Stars Come Out (1985).png - Click to see more photos|website=ImageShack|accessdate=12 February 2019}}</ref>
+}}
+{{Episode list
+| EpisodeNumber   = 30
+| EpisodeNumber2  = 5
+| Title           = [[Mama Don't Allow]]
+| WrittenBy       = [[Peter Barton (screenwriter)|Peter Barton]]
+| Aux2            = [[Fred Newman (actor)|Fred Newman]]
+| OriginalAirDate = {{Start date|1986|6|27}}
+| ProdCode        = 310
+| ShortSummary    = Feature Book: Mama Don't Allow by Thacher Hurd
+Review Books: Miranda by Tricia Tusa; Apt. 3 by Ezra Jack Keats; Alligator Shoes by Arthur Dorros
+}}
+}}
+
+===Season 4B (1986)===
+{{Episode table |overall= |season= |title= |director= |writer= |aux2= |aux2T=Narrated by |airdate= |prodcode= |episodes=
+{{Episode list
+| EpisodeNumber   = 31
+| EpisodeNumber2  = 6
+| Title           = [[Space Case (Reading Rainbow)|Space Case]]
+| DirectedBy      = [[Hugh Martin]]
+| WrittenBy       = [[Ellen Schecter]]
+| Aux2            = [[Michael Winslow]]
+| OriginalAirDate = {{Start date|1986|8|4}}
+| ProdCode        = 401
+| ShortSummary    = Feature Book: Space Case by Edward Marshall, pictures by James Marshall
+Review Books: Astronuts: Space Jokes and Riddles compiled by Charles Keller, illustrated by Art Cumings; Legend of the Milky Way retold and illustrated by Jeanne M. Lee; Is There Life in Outer Space? by Franklyn M. Branley, illustrated by Don Madden
+}}
+{{Episode list
+| EpisodeNumber   = 32
+| EpisodeNumber2  = 7
+| Title           = [[The Milk Makers]]
+| DirectedBy      = [[Hugh Martin]]
+| WrittenBy       = [[Patti Sullivan]]
+| Aux2            = [[Alaina Reed Hall|Alaina Reed]]
+| OriginalAirDate = {{Start date|1986|8|5}}
+| ProdCode        = 402
+| ShortSummary    = Feature Book: The Milk Makers by Gail Gibbons
+Review Books: Whales and Other Sea Mammals by Elsa Posell; From Blossom to Honey by Ali Mitgutsch; Baby Animals on the Farm by Hans Heinrich-Isenbart, photographs by Ruth Rau
+}}
+{{Episode list
+| EpisodeNumber   = 33
+| EpisodeNumber2  = 8
+| Title           = [[Imogene's Antlers]]
+| DirectedBy      = [[Mitchell Geller]]
+| WrittenBy       = [[Joan Wilen]], [[Lydia Wilen]] & [[Patti Sullivan]]
+| Aux2            = [[Imogene Coca]]
+| OriginalAirDate = {{Start date|1986|8|6}}
+| ProdCode        = 403
+| ShortSummary    = Feature Book: Imogene's Antlers
+Review Books: George Shrinks by William Joyce; The Trek by Ann Jonas; When Panda Came to Our House by Helen Zane Jensen
+}}
+{{Episode list
+| EpisodeNumber   = 34
+| EpisodeNumber2  = 9
+| Title           = [[Germs Make Me Sick!]]
+| DirectedBy      = [[Hugh Martin]]
+| WrittenBy       = [[Ronnie Krauss]]
+| Aux2            = [[Molly Mandlin]]
+| OriginalAirDate = {{Start date|1986|8|7}}
+| ProdCode        = 404
+| ShortSummary    = Feature Book: Germs Make Me Sick! by Melvin Berger, illustrated by Marylin Hafner
+Review Books: Guess What? by Beau Gardner; The Microscope by Maxine Kumin, pictures by Arnold Lobel; Teddy Bears Cure a Cold by Susanna Gretz, illustrated by Alison Sage
+}}
+{{Episode list
+| EpisodeNumber   = 35
+| EpisodeNumber2  = 10
+| Title           = [[Abiyoyo]]
+| DirectedBy      = [[Larry Lancit]] & [[Mitchell Geller]]
+| WrittenBy       = [[Mark Saltzman]]
+| Aux2            = [[Pete Seeger]]
+| OriginalAirDate = {{Start date|1986|8|8}}
+| ProdCode        = 405
+| ShortSummary    = LeVar meets the author, folk singer [[Pete Seeger]], who adapted the story from an old African folk tale as a bedtime story for his children.
+
+Feature Book: Abiyoyo
+
+Review Books: Blackberry Ink; Ayu and the Perfect Moon; Peter and the Wolf
+}}
+}}
+
+===Season 5A (1986-87)===
+''All episodes were directed by Mitchell Geller.''
+{{Episode table |overall= |season= |title= |writer= |aux2= |aux2T=Narrated by |airdate= |prodcode= |episodes=
+{{Episode list
+| EpisodeNumber   = 36
+| EpisodeNumber2  = 1
+| Title           = [[The Life Cycle of the Honeybee]]
+| WrittenBy       = [[Ronnie Krauss]]
+| Aux2            = [[Barbara Feldon]]
+| OriginalAirDate = {{Start date|1987|6|1}}
+| ProdCode        = 406
+| ShortSummary    = Feature Book: The Life Cycle of the Honeybee by Paula Z. Hogan, illustrations by Geri K. Strigenz
+Review Books: The Reason for a Flower by Ruth Heller; The Lady and the Spider by Faith McNulty, illustrated by Bob Marstall; Going Buggy!: Jokes About Insects by Peter and Connie Roop, pictures by Joan Hanson
+}}
+{{Episode list
+| EpisodeNumber   = 37
+| EpisodeNumber2  = 2
+| Title           = [[Keep the Lights Burning, Abbie]]
+| WrittenBy       = [[Ellen Schecter]]
+| Aux2            = [[Sada Thompson]]
+| OriginalAirDate = {{Start date|1987|6|2}}
+| ProdCode        = 407
+| ShortSummary    = Feature Book: Keep the Lights Burning, Abbie by Peter and Connie Roop, pictures by Peter E. Hanson
+Review Books: Very Last First Time by Jan Andrews, illustrated by Ian Wallace; Sailing with the Wind by Thomas Locker; The Little Red Lighthouse and the Great Gray Bridge by Hildegarde H. Swift and Lynd Ward
+}}
+{{Episode list
+| EpisodeNumber   = 38
+| EpisodeNumber2  = 3
+| Title           = [[Chickens Aren't the Only Ones]]
+| WrittenBy       = [[Mark Eisman]]
+| Aux2            = [[Georgia Engel]]
+| OriginalAirDate = {{Start date|1987|6|3}}
+| ProdCode        = 408
+| ShortSummary    = Feature Book: Chickens Aren't the Only Ones by Ruth Heller
+Review Books: Mrs. Huggins and Her Hen Hannah by Lydia Dabcovich; Egg to Chick by Millicent E. Selsam, pictures by Barbara Wolff; Turtle and Tortoise by Vincent Serventy from the Animals in the Wild series
+}}
+{{Episode list
+| EpisodeNumber   = 39
+| EpisodeNumber2  = 4
+| Title           = [[The Paper Crane]]
+| WrittenBy       = [[Ellen Schecter]]
+| Aux2            = [[Keye Luke]]
+| OriginalAirDate = {{Start date|1987|6|4}}
+| ProdCode        = 409
+| ShortSummary    = Feature Book: The Paper Crane
+Review Books: "Paper" Through the Ages; Perfect Crane; How My Parents Learned to Eat
+}}
+{{Episode list
+| EpisodeNumber   = 40
+| EpisodeNumber2  = 5
+| Title           = [[The Runaway Duck]]
+| WrittenBy       = [[Jeanne Marie Laskas]]
+| Aux2            = [[Orson Bean]]
+| OriginalAirDate = {{Start date|1987|6|5}}
+| ProdCode        = 410
+| ShortSummary    = Feature Book: The Runaway Duck by David Lyon
+Review Books: Dabble Duck by Anne Leo Ellis, illustrated by Sue Truesdell; Jamaica's Find by Juanita Havill, illustrations by Anne Sibley O'Brien; The Story About Ping by Marjorie Flack and Kurt Wiese
+}}
+}}
+
+===Season 5B (1987)===
+''All episodes were directed by [[Vern Oakley]].''
+{{Episode table |overall= |season= |title= |writer= |aux2= |aux2T=Narrated by |airdate= |prodcode= |episodes=
+
+{{Episode list
+| EpisodeNumber   = 41
+| EpisodeNumber2  = 6
+| Title           = [[A Three Hat Day]]
+| WrittenBy       = [[Mark Saltzman]]
+| Aux2            = [[Zelda Rubinstein]]
+| OriginalAirDate = {{Start date|1987|7|27}}
+| ProdCode        = 411
+| ShortSummary    = Feature Book: A Three Hat Day by Laura B. Geringer, pictures by Arnold Lobel
+Review Books: Caps for Sale by Esphyr Slobodkina; Maebelle's Suitcase by Tricia Tusa; Shoes by Elizabeth Winthrop, illustrated by William Joyce
+}}
+{{Episode list
+| EpisodeNumber   = 42
+| EpisodeNumber2  = 7
+| Title           = [[Rumpelstiltskin]]
+| WrittenBy       = [[Jill Gluckson]]
+| Aux2            = [[Ralph Waite]]
+| OriginalAirDate = {{Start date|1987|7|28}}
+| ProdCode        = 412
+| ShortSummary    = Feature Book: Rumpelstiltskin retold and illustrated by Paul O. Zelinsky
+Review Books: A Medieval Feast by Aliki; The Story of a Castle by John S. Goodall; The Sleeping Beauty retold and illustrated by Mercer Mayer
+}}
+{{Episode list
+| EpisodeNumber   = 43
+| EpisodeNumber2  = 8
+| Title           = [[Best Friends (Reading Rainbow)|Best Friends]]
+| WrittenBy       = [[Ronnie Krauss]]
+| Aux2            = [[Liza Siegler]]
+| OriginalAirDate = {{Start date|1987|7|29}}
+| ProdCode        = 413
+| ShortSummary    = Feature Book: Best Friends by Steven Kellogg
+Review Books: The Story of Mrs. Lovewright and Purrless Her Cat by Lore Segal, illustrated by Paul O. Zelinsky; A Gift for Tia Rosa by Karen T. Taha, illustrated by Dee deRosa; The Puppy Who Wanted a Boy by Jane Thayer, illustrated by Lisa McCue
+}}
+{{Episode list
+| EpisodeNumber   = 44
+| EpisodeNumber2  = 9
+| Title           = [[Meanwhile Back at the Ranch (book)|Meanwhile Back at the Ranch]]
+| WrittenBy       = [[Ronnie Krauss]]
+| Aux2            = [[Hoyt Axton]]
+| OriginalAirDate = {{Start date|1987|7|30}}
+| ProdCode        = 414
+| ShortSummary    = Feature Book: Meanwhile Back at the Ranch by Trinka Hakes Noble, pictures by Tony Ross
+Review Books: Dakota Dugout by Ann Turner, illustrated by Ronald Himler; Bossyboots by David Cox; Rodeo by Cheryl Walsh Bellville
+}}
+{{Episode list
+| EpisodeNumber   = 45
+| EpisodeNumber2  = 10
+| Title           = [[My Little Island]]
+| WrittenBy       = [[Ronnie Krauss]]
+| Aux2            = [[Ron Foster (actor)|Ron Foster]]
+| OriginalAirDate = {{Start date|1987|7|31}}
+| ProdCode        = 415
+| ShortSummary    = Feature Book: My Little Island by Frane Lessac
+Review Books: Yagua Days by Cruz Martel, pictures by Jerry Pinkney; Nicholas Bentley Stoningpot III by Ann McGovern, illustrated by Tomie de Paola; The Viking Children's World Atlas by Jacqueline Tivers and Michael Day
+}}
+}}
+
+===Season 6A (1988)===
+{{Episode table |overall= |season= |title= |director= |writer= |aux2= |aux2T=Narrated by |airdate= |prodcode= |episodes=
+{{Episode list
+| EpisodeNumber   = 46
+| EpisodeNumber2  = 1
+| Title           = [[The Bionic Bunny Show]]
+| DirectedBy      = [[Dean Parisot]]
+| WrittenBy       = [[Ellis Weiner]]
+| Aux2            = [[Gene Klavan]]
+| OriginalAirDate = {{Start date|1988|8|15}}
+| ProdCode        = 501
+| ShortSummary    = Feature Book: The Bionic Bunny Show by Laurene Krasny Brown and Marc Brown
+
+LeVar visits the set of ''[[Star Trek: The Next Generation]]'' and talks about his role as [[Lt. Geordi LeForge]]
+
+Review Books: Lights! Camera! Action!: How a Movie is Made by Gail Gibbons; The Philharmonic Gets Dressed by Karla Kuskin, illustrations by Marc Simont; Ramona: Behind the Scenes of a Television Show by Elaine Scott, photographs by Margaret Miller
+}}
+{{Episode list
+| EpisodeNumber   = 47
+| EpisodeNumber2  = 2
+| Title           = [[Bugs (Reading Rainbow)|Bugs]]
+| DirectedBy      = [[Mark Mannucci]]
+| WrittenBy       = [[Ronnie Krauss]]
+| Aux2            = [[Lori Delgado]] and [[Edwin Maldonado Jr.]]
+| OriginalAirDate = {{Start date|1988|8|16}}
+| ProdCode        = 502
+| ShortSummary    = Feature Book: Bugs
+Review Books: Backyard Insects; Ladybug; Ant Cities
+}}
+{{Episode list
+| EpisodeNumber   = 48
+| EpisodeNumber2  = 3
+| Title           = [[The Robbery at the Diamond Dog Diner]]
+| DirectedBy      = [[Dean Parisot]] & [[Larry Lancit]]
+| WrittenBy       = [[Ellis Weiner]]
+| Aux2            = [[Peter Falk]]
+| OriginalAirDate = {{Start date|1988|8|17}}
+| ProdCode        = 503
+| ShortSummary    = Feature Book: The Robbery at the Diamond Dog Diner by Eileen Christelow
+Review Books: Aunt Eater Loves a Mystery by Doug Cushman; Better Homes and Gardens Step-by-Step Kids' Cookbook; A Cache of Jewels and Other Collective Nouns by Ruth Heller
+}}
+{{Episode list
+| EpisodeNumber   = 49
+| EpisodeNumber2  = 4
+| Title           = Brush
+| DirectedBy      = [[Larry Lancit]]
+| WrittenBy       = [[Mark Saltzman]]
+| Aux2            = [[Héctor Elizondo]]
+| OriginalAirDate = {{Start date|1988|8|18}}
+| ProdCode        = 504
+| ShortSummary    = Feature Book: Brush
+Review Books: What the Mailman Brought; Jumanji; Egg-Carton Zoo
+}}
+{{Episode list
+| EpisodeNumber   = 50
+| EpisodeNumber2  = 5
+| Title           = [[The Purple Coat]]
+| DirectedBy      = [[Hugh Martin]]
+| WrittenBy       = [[Ellis Weiner]]
+| Aux2            = [[Jack Gilford]]
+| OriginalAirDate = {{Start date|1988|8|19}}
+| ProdCode        = 505
+| ShortSummary    = Feature Book: The Purple Coat by Amy Hest, pictures by Amy Schwartz
+Review Books: Pablo Picasso by Ibi Lepscky, illustrated by Paolo Cardoni; How a Book is Made by Aliki; The Goat in the Rug by Charles L. Blood and Martin Link, illustrated by Nancy Winslow Parker
+}}
+}}
+
+===Season 6B (1988-89)===
+{{Episode table |overall= |season= |title= |director= |writer= |aux2= |aux2T=Narrated by |airdate= |prodcode= |episodes=
+{{Episode list
+| EpisodeNumber   = 51
+| EpisodeNumber2  = 6
+| Title           = [[Barn Dance!]]
+| DirectedBy      = [[Hugh Martin]]
+| WrittenBy       = [[Andrew Gutelle]]
+| Aux2            = [[Roy Clark]]
+| OriginalAirDate = {{Start date|1989|3|27}}
+| ProdCode        = 506
+| ShortSummary    = Feature Book: Barn Dance! by Bill Martin, Jr. and John Archambault, illustrated by Ted Rand
+Review Books: Half a Moon and One Whole Star by Crescent Dragonwagon, illustrations by Jerry Pinkney; I Like the Music by Leah Komaiko, pictures by Barbara Westman; The Old Banjo by Dennis Haseley, drawings by Stephen Gammell
+}}
+{{Episode list
+| EpisodeNumber   = 52
+| EpisodeNumber2  = 7
+| Title           = [[Duncan and Dolores]]
+| DirectedBy      = [[Ed Wiseman (director)|Ed Wiseman]]
+| WrittenBy       = [[Loriann Champagne Smith]]
+| Aux2            = [[Jane Curtin]]
+| OriginalAirDate = {{Start date|1989|3|28}}
+| ProdCode        = 507
+| ShortSummary    = Feature Book: Duncan and Dolores by Barbara Samuels
+Review Books: Puss in Boots by Charles Perrault, retold and illustrated by Lorinda Bryan Cauley; Cat and Canary by Michael Foreman; Moon Tiger by Phyllis Root, art by Ed Young
+}}
+{{Episode list
+| EpisodeNumber   = 53
+| EpisodeNumber2  = 8
+| Title           = [[Knots on a Counting Rope]]
+| DirectedBy      = [[Hugh Martin]]
+| WrittenBy       = [[Ellen Schecter]]
+| Aux2            = [[J. Ruben Silverbird]] and [[Kenneth Blank]]
+| OriginalAirDate = {{Start date|1989|3|29}}
+| ProdCode        = 508
+| ShortSummary    = Feature Book: Knots on a Counting Rope by Bill Martin, Jr. and John Archambault, illustrated by Ted Rand
+Review Books: Harriet's Recital by Nancy Carlson; Let's Go Swimming with Mr. Sillypants by M.K. Brown; Owl Moon by Jane Yolen, illustrated by John Schoenherr
+}}
+{{Episode list
+| EpisodeNumber   = 54
+| EpisodeNumber2  = 9
+| Title           = [[Mummies Made in Egypt]]
+| DirectedBy      = [[Larry Lancit]]
+| WrittenBy       = [[Cecily Truett]]
+| Aux2            = [[Corinne Orr]]
+| OriginalAirDate = {{Start date|1989|3|30}}
+| ProdCode        = 509
+| ShortSummary    = Feature Book: Mummies Made in Egypt by Aliki
+Review Books: I Can Be an Archaeologist by [[Robert B. Pickering]] from the I Can Be series; Bill and Pete Go Down the Nile by Tomie de Paola; Visiting the Art Museum by Laurene Krasny Brown and Marc Brown
+}}
+{{Episode list
+| EpisodeNumber   = 55
+| EpisodeNumber2  = 10
+| Title           = [[Mufaro's Beautiful Daughters]]
+| DirectedBy      = [[Mark Mannucci]]
+| WrittenBy       = [[David Yazbek]]
+| Aux2            = [[Phylicia Rashad]]
+| OriginalAirDate = {{Start date|1989|3|31}}
+| ProdCode        = 510
+| ShortSummary    = Feature Book: Mufaro's Beautiful Daughters
+Review Books: Jambo Means Hello: A Swahili Alphabet Book; Jafta series; Who's in Rabbit's House?
+}}
+}}
+
+===Season 7A (1989)===
+{{Episode table |overall= |season= |title= |director= |writer= |aux2= |aux2T=Narrated by |airdate= |prodcode= |episodes=
+{{Episode list
+| EpisodeNumber   = 56
+| EpisodeNumber2  = 1
+| Title           = [[Humphrey the Whale|Humphrey the Lost Whale: A True Story]]
+| DirectedBy      = [[Dean Parisot]]
+| WrittenBy       = [[Jill Gluckson]]
+| Aux2            = [[Jane Pauley]]
+| OriginalAirDate = {{Start date|1989|7|3}}
+| ProdCode        = 601
+| ShortSummary    = Feature Book: Humphrey the Lost Whale: A True Story
+Review Books: All About Whales by Dorothy Hinshaw Patent; Whalewatch! by June Behrens, photographs by John Olguin; The Life Cycle of the Whale by Paula Z. Hogan, illustrations by Karen Halt
+}}
+{{Episode list
+| EpisodeNumber   = 57
+| EpisodeNumber2  = 2
+| Title           = [[Stay Away from the Junkyard!]]
+| DirectedBy      = [[Mark Mannucci]]
+| WrittenBy       = [[Ronnie Krauss]]
+| Aux2            = [[Michele Mariana]]
+| OriginalAirDate = {{Start date|1989|7|4}}
+| ProdCode        = 602
+| ShortSummary    = Feature Book: Stay Away from the Junkyard!
+Review Books: Make Way for Ducklings; The Snowy Day; The Story of Ferdinand
+}}
+{{Episode list
+| EpisodeNumber   = 58
+| EpisodeNumber2  = 3
+| Title           = [[Little Nino's Pizzeria]]
+| DirectedBy      = [[Mark Mannucci]]
+| WrittenBy       = [[Andrew Gutelle]]
+| Aux2            = [[Josh Saviano]]
+| OriginalAirDate = {{Start date|1989|7|5}}
+| ProdCode        = 603
+| ShortSummary    = Feature Book: Little Nino's Pizzeria by Karen Barbour
+Review Books: Eats Poems by Arnold Adoff, illustrated by Susan Russo; What Happens to a Hamburger? by Paul Showers, illustrated by Anne Rockwell; The Popcorn Book by Tomie de Paola
+}}
+{{Episode list
+| EpisodeNumber   = 59
+| EpisodeNumber2  = 4
+| Title           = [[Ludlow Laughs]]
+| DirectedBy      = [[Dean Parisot]]
+| WrittenBy       = [[Mitchell Kriegman]]
+| Aux2            = [[Phyllis Diller]]
+| OriginalAirDate = {{Start date|1989|7|6}}
+| ProdCode        = 604
+| ShortSummary    = Feature Book: Ludlow Laughs by Jon Agee
+Review Books: Pig William by Arlene Dubanevich; The Make Me Laugh! Joke Books, illustrated by Joan Hanson; Shake My Sillies Out: A Raffi Song to Read, illustrated by David Allender
+}}
+{{Episode list
+| EpisodeNumber   = 60
+| EpisodeNumber2  = 5
+| Title           = [[Dinosaur Bob and His Adventures with the Family Lazardo]]
+| DirectedBy      = [[Ed Wiseman (director)|Ed Wiseman]]
+| WrittenBy       = [[Jill Gluckson]]
+| Aux2            = [[Edward Asner]]
+| OriginalAirDate = {{Start date|1989|7|7}}
+| ProdCode        = 605
+| ShortSummary    = Feature Book: Dinosaur Bob and His Adventures with the Family Lazardo by William Joyce
+
+LeVar meets the [[Oakland Athletics]] during spring practice.
+
+Review Books: Casey at the Bat by Ernest Lawrence Thayer, illustrated by Ken Bachaus; Old Turtle's Baseball Stories by [[Leonard Kessler]]; Ronald Morgan Goes to Bat by Patricia Reilly Giff, illustrated by Susanna Natti
+}}
+}}
+
+===Season 7B (1989-90)===
+{{Episode table |overall= |season= |title= |director= |writer= |aux2= |aux2T=Narrated by |airdate= |prodcode= |episodes=
+{{Episode list
+| EpisodeNumber   = 61
+| EpisodeNumber2  = 6
+| Title           = [[Dive to the Coral Reefs]]
+| DirectedBy      = [[Mark Mannucci]]
+| WrittenBy       = [[Ronnie Krauss]]
+| Aux2            = [[Fran Brill]]
+| OriginalAirDate = {{Start date|1990|3|26}}
+| ProdCode        = 606
+| ShortSummary    = Feature Book: Dive to the Coral Reefs
+Review Books: Creatures of the Sea; How to Hide an Octopus and Other Sea Creatures; I Can Be an Oceanographer from the I Can Be series
+}}
+{{Episode list
+| EpisodeNumber   = 62
+| EpisodeNumber2  = 7
+| Title           = [[Desert Giant: The World of the Saguaro Cactus]]
+| DirectedBy      = [[Dean Parisot]]
+| WrittenBy       = [[Ronnie Krauss]]
+| Aux2            = [[Philip Bosco]]
+| OriginalAirDate = {{Start date|1990|3|27}}
+| ProdCode        = 607
+| ShortSummary    = Feature Book: Desert Giant: The World of the Saguaro Cactus by Barbara Bash
+Review Books: Snakes Are Hunters by Patricia Lauber, illustrated by Holly Keller; Cactus by Cynthia Overbeck Bix, photographs by Shabo Hani; A Living Desert by Guy J. Spencer, photographs by Tim Fuller
+}}
+{{Episode list
+| EpisodeNumber   = 63
+| EpisodeNumber2  = 8
+| Title           = [[Tooth-Gnasher Superflash]]
+| DirectedBy      = [[Hugh Martin]]
+| WrittenBy       = [[Andrew Gutelle]]
+| Aux2            = [[Victoria Jackson]]
+| OriginalAirDate = {{Start date|1990|3|28}}
+| ProdCode        = 608
+| ShortSummary    = Feature Book: Tooth-Gnasher Superflash
+Review Books: Fill It Up!: All About Service Stations; Tin Lizzie and Little Nell; Truck Song
+}}
+{{Episode list
+| EpisodeNumber   = 64
+| EpisodeNumber2  = 9
+| Title           = [[Bored - Nothing to Do!]]
+| DirectedBy      = [[Larry Lancit]]
+| WrittenBy       = [[Ronnie Krauss]]
+| Aux2            = [[Alex Borg (actor)|Alex Borg]] and [[David Hyman]]
+| OriginalAirDate = {{Start date|1990|3|29}}
+| ProdCode        = 609
+| ShortSummary    = Feature Book: Bored - Nothing to Do!
+Review Books: The Magic Wings; Redbird; Flying from the Let's Discover Library
+}}
+{{Episode list
+| EpisodeNumber   = 65
+| EpisodeNumber2  = 10
+| Title           = [[Sports Pages]]
+| DirectedBy      = [[Ed Wiseman (director)|Ed Wiseman]]
+| WrittenBy       = [[Jill Gluckson]]
+| Aux2            = [[LeVar Burton]]
+| OriginalAirDate = {{Start date|1990|3|30}}
+| ProdCode        = 610
+| ShortSummary    = Feature Book: Sports Pages by Arnold Adoff, illustrations by Steve Kuzma
+Review Books: Miss Nelson Has a Field Day by Harry Allard and James Marshall; Making the Team by Nancy Carlson; Soccer Sam by Jean Marzollo, illustrated by Blanche Sims
+}}
+}}
+
+===Season 8 (1990)===
+{{Episode table |overall= |season= |title= |director= |writer= |aux2= |aux2T=Narrated by |airdate= |prodcode= |episodes=
+{{Episode list
+| EpisodeNumber   = 66
+| EpisodeNumber2  = 1
+| Title           = [[The Magic School Bus (book series)|The Magic School Bus Inside the Earth]]
+| DirectedBy      = [[Mark Mannucci]]
+| WrittenBy       = [[Andrew Gutelle]]
+| Aux2            = [[Keshia Knight Pulliam]]
+| OriginalAirDate = {{Start date|1990|9|10}}
+| ProdCode        = 701
+| ShortSummary    = Feature Book: The Magic School Bus Inside the Earth by Joanna Cole, illustrated by Bruce Degen
+Review Books: Caves by Roma Gans, illustrated by Giulio Maestro; How to Dig a Hole to the Other Side of the World by Faith McNulty, pictures by Marc Simont; Rock Collecting by Roma Gans, illustrated by Holly Keller
+}}
+{{Episode list
+| EpisodeNumber   = 67
+| EpisodeNumber2  = 2
+| Title           = [[Jack, the Seal and the Sea]]
+| DirectedBy      = [[Hugh Martin]]
+| WrittenBy       = [[Ronnie Krauss]]
+| Aux2            = [[Leslie Uggams]]
+| OriginalAirDate = {{Start date|1990|9|11}}
+| ProdCode        = 702
+| ShortSummary    = Feature Book: Jack, the Seal and the Sea by Gerald Aschenbrenner, English adaptation by Joanne Fink
+Review Books: Sterling: The Rescue of a Baby Harbor Seal by Sandra Verrill White and Michael Filisky; Water: What It Is, What It Does by Judith S. Seixas, illustrated by Tom Huffman; A Day in the Life of a Marine Biologist by David Paige, photographs by Roger Ruhlin
+}}
+{{Episode list
+| EpisodeNumber   = 68
+| EpisodeNumber2  = 3
+| Title           = The Bicycle Man
+| DirectedBy      = [[Ed Wiseman (director)|Ed Wiseman]]
+| WrittenBy       = [[Ronnie Krauss]]
+| Aux2            = [[Tom Matsusaka]]
+| OriginalAirDate = {{Start date|1990|9|12}}
+| ProdCode        = 703
+| ShortSummary    = Feature Book: The Bicycle Man by Allen Say
+Review Books: Delphine by Molly Bang; The White Bicycle by Rob Lewis; Our Teacher's in a Wheelchair by Mary Ellen Powers
+}}
+{{Episode list
+| EpisodeNumber   = 69
+| EpisodeNumber2  = 4
+| Title           = [[Florence and Eric Take the Cake]]
+| DirectedBy      = [[Mark Mannucci]]
+| WrittenBy       = [[Andrew Gutelle]]
+| Aux2            = [[Julia Child]]
+| OriginalAirDate = {{Start date|1990|9|13}}
+| ProdCode        = 704
+| ShortSummary    = Feature Book: Florence and Eric Take the Cake by Jocelyn Wild
+Review Books: Uncle Nacho's Hat adapted by Harriet Rohmer, illustrations by Veg Reisberg; My First Cook Book by Angela Wilkes; The Garden of Abdul Gasazi by Chris Van Allsburg
+}}
+{{Episode list
+| EpisodeNumber   = 70
+| EpisodeNumber2  = 5
+| Title           = Sunken Treasure
+| DirectedBy      = [[Larry Lancit]]
+| WrittenBy       = [[Andrew Gutelle]]
+| Aux2            = [[Robert Morse]]
+| OriginalAirDate = {{Start date|1990|9|14}}
+| ProdCode        = 705
+| ShortSummary    = Feature Book: Sunken Treasure
+Review Books: What's in the Deep?: An Underwater Adventure for Children; A Day Underwater; The Titanic...Lost and Found
+}}
+}}
+
+===Season 9 (1991)===
+{{Episode table |overall= |season= |title= |director= |writer= |aux2= |aux2T=Narrated by |airdate= |prodcode= |episodes=
+{{Episode list
+| EpisodeNumber   = 71
+| EpisodeNumber2  = 1
+| Title           = [[Alistair's Time Machine]]
+| DirectedBy      = [[Ed Wiseman (director)|Ed Wiseman]]
+| WrittenBy       = [[Patty Marx]]
+| Aux2            = [[Arnold Stang]]
+| OriginalAirDate = {{Start date|1991|9|16}}
+| ProdCode        = 706
+| ShortSummary    = Feature Book: Alistair's Time Machine
+Review Books: The Many Lives of Benjamin Franklin; What Does It Do?: A Book About Inventions; Find Waldo Now
+}}
+{{Episode list
+| EpisodeNumber   = 72
+| EpisodeNumber2  = 2
+| Title           = [[The Adventures of Taxi Dog]]
+| DirectedBy      = [[Mark Mannucci]]
+| WrittenBy       = [[Jill Gluckson]]
+| Aux2            = [[Vincent Gardenia]]
+| OriginalAirDate = {{Start date|1991|9|17}}
+| ProdCode        = 707
+| ShortSummary    = Feature Book: The Adventures of Taxi Dog by Debra and Sal Barracca, pictures by Mark Buehner
+Review Books: Taxi: A Book of City Words by Betsy and Giulio Maestro; I Want a Dog by Dayal Kaur Khalsa; The First Dog by Jan Brett
+}}
+{{Episode list
+| EpisodeNumber   = 73
+| EpisodeNumber2  = 3
+| Title           = [[The Legend of the Indian Paintbrush]]
+| DirectedBy      = [[Larry Lancit]]
+| WrittenBy       = [[Kristin Laskas Martin]]
+| Aux2            = [[Harold Littlebird]]
+| OriginalAirDate = {{Start date|1991|9|18}}
+| ProdCode        = 708
+| ShortSummary    = Feature Book: The Legend of the Indian Paintbrush retold and illustrated by Tomie de Paola
+Review Books: Rainbow Crow retold by Nancy Van Laan, illustrated by Beatriz Vidal; Indians of the Americas from the New True Book series; The Mud Pony retold by Caron Lee Cohen, illustrated by Shonto Begay
+}}
+{{Episode list
+| EpisodeNumber   = 74
+| EpisodeNumber2  = 4
+| Title           = [[Galimoto]]
+| DirectedBy      = [[Mark Mannucci]]
+| WrittenBy       = [[Ronnie Krauss]]
+| Aux2            = [[Hattie Winston]]
+| OriginalAirDate = {{Start date|1991|9|19}}
+| ProdCode        = 709
+| ShortSummary    = Feature Book: Galimoto
+Review Books: Look at This; The Little Pigs' Puppet Book; My First Activity Book
+}}
+{{Episode list
+| EpisodeNumber   = 75
+| EpisodeNumber2  = 5
+| Title           = [[Fox on the Job]]
+| DirectedBy      = [[Ed Wiseman (director)|Ed Wiseman]]
+| WrittenBy       = [[Robert Stork]]
+| Aux2            = [[Fred Newman (actor)|Fred Newman]]
+| OriginalAirDate = {{Start date|1991|9|20}}
+| ProdCode        = 710
+| ShortSummary    = Feature Book: Fox on the Job by James Marshall
+Review Books: Pig Pig Gets a Job by David McPhail; Helping Out by George Ancona; Music, Music for Everyone by Vera B. Williams
+}}
+{{Episode list
+| EpisodeNumber   = 76
+| EpisodeNumber2  = 6
+| Title           = [[Opt: An Illusionary Tale]]
+| DirectedBy      = [[Mark Mannucci]]
+| WrittenBy       = [[Ronnie Krauss]]
+| Aux2            = [[LeVar Burton]]
+| OriginalAirDate = {{Start date|1991|9|23}}
+| ProdCode        = 801
+| ShortSummary    = Feature Book: Opt: An Illusionary Tale
+Review Books: Hide and Seek; If At First You Do Not See; Lenses!: Take a Closer Look
+}}
+{{Episode list
+| EpisodeNumber   = 77
+| EpisodeNumber2  = 7
+| Title           = [[Raccoons and Ripe Corn]]
+| DirectedBy      = [[Larry Lancit]]
+| WrittenBy       = [[Andrew Gutelle]]
+| Aux2            = [[Julia Barr]]
+| OriginalAirDate = {{Start date|1991|9|24}}
+| ProdCode        = 802
+| ShortSummary    = Feature Book: Raccoons and Ripe Corn
+Review Books: Tree Trunk Traffic; My First Nature Book; Bird Watch
+}}
+{{Episode list
+| EpisodeNumber   = 78
+| EpisodeNumber2  = 8
+| Title           = [[The Lady with the Ship on Her Head]]
+| DirectedBy      = [[Ed Wiseman (director)|Ed Wiseman]]
+| WrittenBy       = [[Ellis Weiner]]
+| Aux2            = [[Marilyn Pasekoff]]
+| OriginalAirDate = {{Start date|1991|9|25}}
+| ProdCode        = 803
+| ShortSummary    = Feature Book: The Lady with the Ship on Her Head
+Review Books: Moog-Moog, Space Barber; An Enchanted Hair Tale; The Flyaway Pantaloons
+}}
+{{Episode list
+| EpisodeNumber   = 79
+| EpisodeNumber2  = 9
+| Title           = [[Kate Shelley and the Midnight Express]]
+| DirectedBy      = [[Richard Hendrick]]
+| WrittenBy       = [[Jill Gluckson]]
+| Aux2            = [[Brian Dennehy]]
+| OriginalAirDate = {{Start date|1991|9|26}}
+| ProdCode        = 804
+| ShortSummary    = Feature Book: Kate Shelley and the Midnight Express
+Review Books: The Train to Lulu's; The Little Engine that Could; The Polar Express
+}}
+{{Episode list
+| EpisodeNumber   = 80
+| EpisodeNumber2  = 10
+| Title           = [[Snowy Day: Stories and Poems]]
+| DirectedBy      = [[Ed Wiseman (director)|Ed Wiseman]]
+| WrittenBy       = [[Ronnie Krauss]]
+| Aux2            = [[Lena Horne]] (Winter Morning), [[Lacey Chabert]] (Snow), and [[Richard Courtney]] (Stopping By Woods on a Snowy Evening)
+| OriginalAirDate = {{Start date|1991|9|27}}
+| ProdCode        = 805
+| ShortSummary    = Feature Book: Snowy Day: Stories and Poems edited by Caroline Feller Bauer, illustrated by Margot Tomes
+
+Review Books: Over the River and Through the Wood by Lydia Maria Child, illustrated by Iris Van Rynbach; Winter by Ron Hirschi, photographs by Thomas D. Mangelsen; Stopping by Woods on a Snowy Evening by Robert Frost, illustrated by Susan Jeffers
+
+'''NOTE''': In this episode, all the story segments are presented in live action instead of semi-animated illustrations.
+}}
+}}
+
+===Season 10 (1992)===
+{{Episode table |overall= |season= |title= |director= |writer= |aux2= |aux2T=Narrated by |airdate= |prodcode= |episodes=
+{{Episode list
+| EpisodeNumber   = 81
+| EpisodeNumber2  = 1
+| Title           = [[Tar Beach]]
+| DirectedBy      = [[Mark Mannucci]]
+| WrittenBy       = [[Jill Gluckson]]
+| Aux2            = [[Ruby Dee]]
+| OriginalAirDate = {{Start date|1992|10|5}}
+| ProdCode        = 806
+| ShortSummary    = Feature Book: Tar Beach by Faith Ringgold
+Review Books: I'm Flying! by Alan Wade, pictures by Petra Mathers; On Grandma's Roof by Erica Silverman, illustrated by Deborah Kogan Ray; To Sleep by James Sage, illustrated by Warwick Hutton
+}}
+{{Episode list
+| EpisodeNumber   = 82
+| EpisodeNumber2  = 2
+| Title           = The Wall
+| DirectedBy      = [[Mark Mannucci]]
+| WrittenBy       = [[Andrew Gutelle]]
+| Aux2            = [[Jason Ruggiero]]
+| OriginalAirDate = {{Start date|1992|10|6}}
+| ProdCode        = 807
+| ShortSummary    = Feature Book: The Wall
+Review Books: Tillie and the Wall; My Grandson Lew; All Those Secrets of the World
+}}
+{{Episode list
+| EpisodeNumber   = 83
+| EpisodeNumber2  = 3
+| Title           = [[Sam the Sea Cow]]
+| DirectedBy      = [[Ed Wiseman (director)|Ed Wiseman]]
+| WrittenBy       = [[Andrew Gutelle]]
+| Aux2            = [[Jason Robards]]
+| OriginalAirDate = {{Start date|1992|10|7}}
+| ProdCode        = 808
+| ShortSummary    = Feature Book: Sam the Sea Cow
+Review Books: Manatees; "10 Things I Know" Books; Will We Miss Them?: Endangered Species
+}}
+{{Episode list
+| EpisodeNumber   = 84
+| EpisodeNumber2  = 4
+| Title           = [[Rechenka's Eggs]]
+| DirectedBy      = [[Mark Mannucci]]
+| WrittenBy       = [[Ronnie Krauss]]
+| Aux2            = [[Viveca Lindfors]]
+| OriginalAirDate = {{Start date|1992|10|8}}
+| ProdCode        = 809
+| ShortSummary    = Feature Book: Rechenka's Eggs
+Review Books: The Talking Eggs; I Made It Myself; Stefan and Olga
+}}
+{{Episode list
+| EpisodeNumber   = 85
+| EpisodeNumber2  = 5
+| Title           = [[Sophie and Lou]]
+| DirectedBy      = [[Fred Surr]]
+| WrittenBy       = [[Fred Surr]]
+| Aux2            = [[Jessica Walter]]
+| OriginalAirDate = {{Start date|1992|10|9}}
+| ProdCode        = 810
+| ShortSummary    = Feature Book: Sophie and Lou
+Review Books: Cordelia, Dance!; Lion Dancer: Ernie Wan's Chinese New Year; Dancing with the Indians
+}}
+{{Episode list
+| EpisodeNumber   = 86
+| EpisodeNumber2  = 6
+| Title           = [[Come a Tide]]
+| DirectedBy      = [[Ed Wiseman (director)|Ed Wiseman]]
+| WrittenBy       = [[Susan Leeds]]
+| Aux2            = [[Dixie Carter]]
+| OriginalAirDate = {{Start date|1992|10|12}}
+| ProdCode        = 901
+| ShortSummary    = Feature Book: Come a Tide
+Review Books: Tornado Alert; Weather; Storms
+}}
+{{Episode list
+| EpisodeNumber   = 87
+| EpisodeNumber2  = 7
+| Title           = [[The Piggy in the Puddle]]
+| DirectedBy      = [[Ed Wiseman (director)|Ed Wiseman]]
+| WrittenBy       = [[Orly Berger]] & [[Ed Wiseman (director)|Ed Wiseman]]
+| Aux2            = [[Tovah Feldshuh]]
+| OriginalAirDate = {{Start date|1992|10|13}}
+| ProdCode        = 902
+| ShortSummary    = Feature Book: The Piggy in the Puddle
+Review Books: This House is Made of Mud; The Hippopotamus Song: A Muddy Love Story; Oink
+}}
+{{Episode list
+| EpisodeNumber   = 88
+| EpisodeNumber2  = 8
+| Title           = [[Seashore Surprises]]
+| DirectedBy      = [[Mark Mannucci]]
+| WrittenBy       = [[Ronnie Krauss]]
+| Aux2            = [[LeVar Burton]]
+| OriginalAirDate = {{Start date|1992|10|14}}
+| ProdCode        = 903
+| ShortSummary    = Feature Book: Seashore Surprises
+Review Books: The Seashore Book; What's Inside? Shells; Is This a House for Hermit Crab?
+}}
+{{Episode list
+| EpisodeNumber   = 89
+| EpisodeNumber2  = 9
+| Title           = [[Through Moon and Stars and Night Skies]]
+| DirectedBy      = [[Mark Mannucci]]
+| WrittenBy       = [[Ronnie Krauss]]
+| Aux2            = [[Andrew Lei]]
+| OriginalAirDate = {{Start date|1992|10|15}}
+| ProdCode        = 904
+| ShortSummary    = Feature Book: Through Moon and Stars and Night Skies
+Review Books: Horace; Fathers, Mothers, Sisters, Brothers: A Collection of Family Poems; Free to Be...a Family
+}}
+{{Episode list
+| EpisodeNumber   = 90
+| EpisodeNumber2  = 10
+| Title           = [[Berlioz the Bear]]
+| DirectedBy      = [[Mark Mannucci]]
+| WrittenBy       = [[Jill Gluckson]]
+| Aux2            = [[James Avery]]
+| OriginalAirDate = {{Start date|1992|10|16}}
+| ProdCode        = 905
+| ShortSummary    = Feature Book: Berlioz the Bear
+Review Books: The Science Book of Sound; Georgia Music; Introduction to Musical Instruments series: Brass/Strings/Woodwinds/Percussion
+}}
+}}
+
+===Season 11 (1993)===
+{{Episode table |overall= |season= |title= |director= |writer= |aux2= |aux2T=Narrated by |airdate= |prodcode= |episodes=
+{{Episode list
+| EpisodeNumber   = 91
+| EpisodeNumber2  = 1
+| Title           = [[Mary Hoffman|Amazing Grace]]
+| DirectedBy      = [[Ed Wiseman (director)|Ed Wiseman]]
+| WrittenBy       = [[Andrew Gutelle]]
+| Aux2            = [[Tyne Daly]]
+| OriginalAirDate = {{Start date|1993|10|11}}
+| ProdCode        = 906
+| ShortSummary    = Feature Book: Amazing Grace
+
+LeVar visits a theater to discuss acting and how pretending to be someone else helps people express their feelings. He also visits his friend, [[Whoopi Goldberg]], who was launching [[The Whoopi Goldberg Show|her own talk show]], and discussed how her unique look has affected her career as an actor and comedian.
+
+Review Books: Mirette on the High Wire; Great Women in the Struggle; Roses Sing on New Snow
+}}
+{{Episode list
+| EpisodeNumber   = 92
+| EpisodeNumber2  = 2
+| Title           = [[The Furry News: How to Make a Newspaper]]
+| DirectedBy      = [[Ed Wiseman (director)|Ed Wiseman]]
+| WrittenBy       = [[Andrew Gutelle]]
+| Aux2            = the cast of [[Forbidden Broadway]] ([[Susanne Blakeslee]], Dorothy Kiara, [[Brad Oscar]], Craig Wells) and Lee Murphy
+| OriginalAirDate = {{Start date|1993|10|12}}
+| ProdCode        = 907
+| ShortSummary    = Feature Book: The Furry News: How to Make a Newspaper
+
+LeVar meets comic strip artist [[Ray Billingsley]], the creator of ''[[Curtis (comic strip)|Curtis]]''.
+
+Review Books: What It's Like to Be a...Newspaper Reporter; Great Newspaper Crafts; Newspapers
+}}
+{{Episode list
+| EpisodeNumber   = 93
+| EpisodeNumber2  = 3
+| Title           = Mrs. Katz and Tush
+| DirectedBy      = [[Mark Mannucci]]
+| WrittenBy       = [[Ronnie Krauss]]
+| Aux2            = [[Reizl Bozyk]] and [[Rick English]]
+| OriginalAirDate = {{Start date|1993|10|13}}
+| ProdCode        = 908
+| ShortSummary    = Feature Book: Mrs. Katz and Tush
+Review Books: Wilfrid Gordon McDonald Partridge; Abuela; Kwanzaa
+}}
+{{Episode list
+| EpisodeNumber   = 94
+| EpisodeNumber2  = 4
+| Title           = [[The Salamander Room]]
+| DirectedBy      = [[Mark Mannucci]]
+| WrittenBy       = [[Ronnie Krauss]]
+| Aux2            = [[Lynne Thigpen]]
+| OriginalAirDate = {{Start date|1993|10|14}}
+| ProdCode        = 909
+| ShortSummary    = Feature Book: The Salamander Room by Anne Mazer, illustrated by Steve Johnson and Lou Fancher
+Review Books: The Great Kapok Tree by Lynne Cherry; Chipmunk Song by Joanne Ryder, pictures by Lynne Cherry; Frogs, Toads, Lizards and Salamanders by Nancy Winslow Parker and Joan Richards Wright, illustrations by Nancy Winslow Parker
+}}
+{{Episode list
+| EpisodeNumber   = 95
+| EpisodeNumber2  = 5
+| Title           = [[Silent Lotus]]
+| DirectedBy      = [[Mark Mannucci]]
+| WrittenBy       = [[Ronnie Krauss]]
+| Aux2            = [[Lea Salonga]]
+| OriginalAirDate = {{Start date|1993|10|15}}
+| ProdCode        = 910
+| ShortSummary    = Feature Book: Silent Lotus
+Review Books: The Handmade Alphabet; Hand Rhymes; Amy: The Story of a Deaf Child
+}}
+{{Episode list
+| EpisodeNumber   = 96
+| EpisodeNumber2  = 6
+| Title           = [[Follow the Drinking Gourd]]
+| DirectedBy      = [[Mark Mannucci]]
+| WrittenBy       = [[Steve Conner]] & [[Charlie Rice (writer)|Charlie Rice]]
+| Aux2            = [[Keith David]]
+| OriginalAirDate = {{Start date|1993|10|18}}
+| ProdCode        = 1001
+| ShortSummary    = Feature Book: Follow the Drinking Gourd
+Review Books: Shake It to the One that You Love the Best; Sweet Clara and the Freedom Quilt; A Picture Book of Harriet Tubman
+}}
+{{Episode list
+| EpisodeNumber   = 97
+| EpisodeNumber2  = 7
+| Title           = [[If You Give a Mouse a Cookie]]
+| DirectedBy      = [[Ed Wiseman (director)|Ed Wiseman]]
+| WrittenBy       = [[Andrew Gutelle]]
+| Aux2            = [[Beth Howland]]
+| OriginalAirDate = {{Start date|1993|10|19}}
+| ProdCode        = 1002
+| ShortSummary    = Feature Book: If You Give a Mouse a Cookie by Laura Joffe Numeroff, illustrated by Felicia Bond
+Review Books: This is the Key to the Kingdom by Diane Worfolk Allison; The House that Jack Built, pictures by Jenny Stow; Smart Dog by Ralph Leemis, illustrated by Chris Demarest
+}}
+{{Episode list
+| EpisodeNumber   = 98
+| EpisodeNumber2  = 8
+| Title           = [[Is This a House for Hermit Crab?]]
+| DirectedBy      = [[Mark Mannucci]]
+| WrittenBy       = [[Ronnie Krauss]]
+| Aux2            = [[Eartha Kitt]]
+| OriginalAirDate = {{Start date|1993|10|20}}
+| ProdCode        = 1003
+| ShortSummary    = Feature Book: Is This a House for Hermit Crab? by Megan McDonald, illustrated by S.D. Schindler
+Review Books: Urban Roosts by Barbara Bash; Spider's Web by Christine Back and Barrie Watts; Busy, Busy Squirrels by Colleen Stanley Bare
+}}
+{{Episode list
+| EpisodeNumber   = 99
+| EpisodeNumber2  = 9
+| Title           = [[And Still the Turtle Watched]]
+| DirectedBy      = [[Mark Mannucci]]
+| WrittenBy       = [[Jill Gluckson]]
+| Aux2            = [[Michael Ansara]]
+| OriginalAirDate = {{Start date|1993|10|21}}
+| ProdCode        = 1004
+| ShortSummary    = Feature Book: And Still the Turtle Watched by Sheila MacGill-Callahan, pictures by Barry Moser
+Review Books: Thirteen Moons on Turtle's Back by Joseph Bruchac and Jonathan London, illustrated by Thomas Locker; My First Green Book by Angela Wilkes; A River Ran Wild by Lynne Cherry
+}}
+{{Episode list
+| EpisodeNumber   = 100
+| EpisodeNumber2  = 10
+| Title           = [[June 29, 1999]]
+| DirectedBy      = [[Ed Wiseman (director)|Ed Wiseman]]
+| WrittenBy       = [[Andrew Gutelle]]
+| Aux2            = [[Charles Kimbrough]]
+| OriginalAirDate = {{Start date|1993|10|22}}
+| ProdCode        = 1005
+| ShortSummary    = Feature Book: June 29, 1999 by David Wiesner
+Review Books: Time Train by Paul Fleischman, illustrations by Claire Ewart; Growing Vegetable Soup by Lois Ehlert; Cloudy with a Chance of Meatballs by Judi Barrett, drawn by Ron Barrett
+}}
+}}
+
+===Season 12 (1994)===
+{{Episode table |overall= |season= |title= |director= |writer= |aux2= |aux2T=Narrated by |airdate= |prodcode= |episodes=
+{{Episode list
+| EpisodeNumber   = 101
+| EpisodeNumber2  = 1
+| Title           = [[Nosey Mrs. Rat]]
+| DirectedBy      = [[Ed Wiseman (director)|Ed Wiseman]]
+| WrittenBy       = [[Andrew Gutelle]] & [[Ronnie Krauss]]
+| Aux2            = [[Faith Prince]]
+| OriginalAirDate = {{Start date|1994|10|3}}
+| ProdCode        = 1006
+| ShortSummary    = Feature Book: Nosey Mrs. Rat
+
+LeVar meets [[primatology|primatologist]] [[Jane Goodall]], who explains how her own curiosity helped her become a leading scientist.
+
+Review Books: The 13th Clue; Tiger; Mouse Views: What the Class Pet Saw
+}}
+{{Episode list
+| EpisodeNumber   = 102
+| EpisodeNumber2  = 2
+| Title           = [[Borreguita and the Coyote]]
+| DirectedBy      = [[Mark Mannucci]]
+| WrittenBy       = [[Bernardo Solano]]
+| Aux2            = [[Olga Merediz]]
+| OriginalAirDate = {{Start date|1994|10|4}}
+| ProdCode        = 1007
+| ShortSummary    = Feature Book: Borreguita and the Coyote
+Review Books: Diego; The Three Little Javelinas; Coyote Dreams
+}}
+{{Episode list
+| EpisodeNumber   = 103
+| EpisodeNumber2  = 3
+| Title           = [[Summer (Hirschi book)|Summer]]
+| DirectedBy      = [[Mark Mannucci]] & [[Ed Wiseman (director)|Ed Wiseman]]
+| WrittenBy       = [[Andrew Gutelle]]
+| Aux2            = [[Ossie Davis]]
+| OriginalAirDate = {{Start date|1994|10|5}}
+| ProdCode        = 1008
+| ShortSummary    = Feature Book: Summer
+Review Books: Nature All Year Long; Turtle in July; Changes
+}}
+{{Episode list
+| EpisodeNumber   = 104
+| EpisodeNumber2  = 4
+| Title           = [[Once There Was a Tree]]
+| DirectedBy      = [[James C. Wright]]
+| WrittenBy       = [[Ronnie Krauss]]
+| Aux2            = [[Eli Wallach]]
+| OriginalAirDate = {{Start date|1994|10|6}}
+| ProdCode        = 1009
+| ShortSummary    = Feature Book: Once There Was a Tree
+Review Books: The Tremendous Tree Book; Red Leaf, Yellow Leaf; The Tree in the Wood
+}}
+{{Episode list
+| EpisodeNumber   = 105
+| EpisodeNumber2  = 5
+| Title           = [[Appelemando's Dreams]]
+| DirectedBy      = [[Ed Wiseman (director)|Ed Wiseman]]
+| WrittenBy       = [[Ronnie Krauss]]
+| Aux2            = [[Michael Learned]]
+| OriginalAirDate = {{Start date|1994|10|7}}
+| ProdCode        = 1010
+| ShortSummary    = Feature Book: Appelemando's Dreams
+Review Books: The Little Painter of Sabana Grande; The Incredible Painting of Felix Clousseau; I Am an Artist
+}}
+{{Episode list
+| EpisodeNumber   = 106
+| EpisodeNumber2  = 6
+| Title           = [[The Lotus Seed]]
+| DirectedBy      = [[Mark Mannucci]]
+| WrittenBy       = [[Susan Kim]]
+| Aux2            = [[Rona Figueroa]]
+| OriginalAirDate = {{Start date|1994|10|10}}
+| ProdCode        = 1101
+| ShortSummary    = Feature Book: The Lotus Seed
+Review Books: I'm New Here; Grandfather's Journey; Halmoni and the Picnic
+}}
+{{Episode list
+| EpisodeNumber   = 107
+| EpisodeNumber2  = 7
+| Title           = [[Hail to Mail]]
+| DirectedBy      = [[Mark Mannucci]]
+| WrittenBy       = [[Andrew Gutelle]]
+| Aux2            = [[Al Roker]]
+| OriginalAirDate = {{Start date|1994|10|11}}
+| ProdCode        = 1102
+| ShortSummary    = Feature Book: Hail to Mail
+Review Books: Messages in the Mailbox: How to Write a Letter; Stringbean's Trip to the Shining Sea; The Jolly Postman or Other People's Letters
+}}
+{{Episode list
+| EpisodeNumber   = 108
+| EpisodeNumber2  = 8
+| Title           = [[Stellaluna]]
+| DirectedBy      = [[Mark Mannucci]]
+| WrittenBy       = [[Ronnie Krauss]]
+| Aux2            = [[Anne Jackson]]
+| OriginalAirDate = {{Start date|1994|10|12}}
+| ProdCode        = 1103
+| ShortSummary    = Feature Book: Stellaluna
+Review Books: Amazing Bats; Step into the Night; Sleep is for Everyone
+}}
+{{Episode list
+| EpisodeNumber   = 109
+| EpisodeNumber2  = 9
+| Title           = [[My Shadow (poem)|My Shadow]]
+| DirectedBy      = [[Mark Mannucci]]
+| WrittenBy       = [[Susan Kim]]
+| Aux2            = [[Robert Guillaume]]
+| OriginalAirDate = {{Start date|1994|10|13}}
+| ProdCode        = 1104
+| ShortSummary    = Feature Book: My Shadow
+Review Books: Shadows and Reflections; I Have a Friend; Shadowgraphs
+}}
+{{Episode list
+| EpisodeNumber   = 110
+| EpisodeNumber2  = 10
+| Title           = [[Ruth Law Thrills a Nation]]
+| DirectedBy      = [[Mark Mannucci]]
+| WrittenBy       = [[Susan Kim]]
+| Aux2            = [[Linda Lavin]]
+| OriginalAirDate = {{Start date|1994|10|14}}
+| ProdCode        = 1105
+| ShortSummary    = Feature Book: Ruth Law Thrills a Nation
+Review Books: Plane Song; Flight; Amelia's Fantastic Flight
+}}
+}}
+
+===Season 13 (1995)===
+{{Episode table |overall= |season= |title= |director= |writer= |aux2= |aux2T=Narrated by |airdate= |prodcode= |episodes=
+{{Episode list
+| EpisodeNumber   = 111
+| EpisodeNumber2  = 1
+| Title           = [[The Wonderful Towers of Watts]]
+| DirectedBy      = [[Mark Mannucci]]
+| WrittenBy       = [[Susan Kim]] & [[Ronnie Krauss]]
+| Aux2            = [[Angela Bassett]]
+| OriginalAirDate = {{Start date|1995|10|2}}
+| ProdCode        = 1106
+| ShortSummary    = Feature Book: The Wonderful Towers of Watts
+Review Books: I Got Community; Night on Neighborhood Street; The Car Washing Street
+}}
+{{Episode list
+| EpisodeNumber   = 112
+| EpisodeNumber2  = 2
+| Title           = [[Martha Speaks (book)|Martha Speaks]]
+| DirectedBy      = [[Mark Mannucci]]
+| WrittenBy       = [[Mark Eisman]] & [[Ronnie Krauss]]
+| Aux2            = [[Jo Hayden]]
+| OriginalAirDate = {{Start date|1995|10|3}}
+| ProdCode        = 1107
+| ShortSummary    = Feature Book: Martha Speaks by Susan Meddaugh
+Review Books: Earth Hounds; The Night I Followed the Dog; My Puppy is Born
+}}
+{{Episode list
+| EpisodeNumber   = 113
+| EpisodeNumber2  = 3
+| Title           = [[Alejandro's Gift]]
+| DirectedBy      = [[Larry Lancit]]
+| WrittenBy       = [[Andrew Gutelle]]
+| Aux2            = [[Francisco Rivela]]
+| OriginalAirDate = {{Start date|1995|10|4}}
+| ProdCode        = 1108
+| ShortSummary    = Feature Book: Alejandro's Gift
+Review Books: Water, Water Everywhere; It Rained on the Desert Today; The Desert Alphabet Book
+}}
+{{Episode list
+| EpisodeNumber   = 114
+| EpisodeNumber2  = 4
+| Title           = [[The Sign Painter's Dream]]
+| DirectedBy      = [[Ed Wiseman (director)|Ed Wiseman]]
+| WrittenBy       = [[Lee Hunkins]] & [[Jill Gluckson]]
+| Aux2            = [[Jamie Farr]]
+| OriginalAirDate = {{Start date|1995|10|5}}
+| ProdCode        = 1109
+| ShortSummary    = Feature Book: The Sign Painter's Dream
+Review Books: The Signmaker's Assistant; I Read Signs; The Letter Jesters
+}}
+{{Episode list
+| EpisodeNumber   = 115
+| EpisodeNumber2  = 5
+| Title           = [[Archibald Frisby]]
+| DirectedBy      = [[Mark Mannucci]]
+| WrittenBy       = [[Jill Gluckson]]
+| Aux2            = [[Arnold Stang]]
+| OriginalAirDate = {{Start date|1995|10|6}}
+| ProdCode        = 1110
+| ShortSummary    = Feature Book: Archibald Frisby
+Review Books: What Makes Popcorn Pop?; Wonder Why Soap Makes Bubbles?; Science Magic series: Sound/Light/Air/Water
+}}
+}}
+
+===Season 14 (1996)===
+{{Episode table |overall= |season= |title= |director= |writer= |aux2= |aux2T=Narrated by |airdate= |prodcode= |episodes=
+{{Episode list
+| EpisodeNumber   = 116
+| EpisodeNumber2  = 1
+| Title           = Fly Away Home
+| DirectedBy      = [[Mark Mannucci]]
+| WrittenBy       = [[Ronnie Krauss]]
+| Aux2            = [[Daniel Saltzman]]
+| OriginalAirDate = {{Start date|1996|4|8}}
+| ProdCode        = 1111
+| ShortSummary    = Feature Book: Fly Away Home
+Review Books: The Homeless Hibernating Bear; Uncle Willie and the Soup Kitchen; Home
+}}
+{{Episode list
+| EpisodeNumber   = 117
+| EpisodeNumber2  = 2
+| Title           = [[Uncle Jed's Barbershop]]
+| DirectedBy      = [[Mark Mannucci]]
+| WrittenBy       = [[Lee Hunkins]]
+| Aux2            = [[Regina Taylor]]
+| OriginalAirDate = {{Start date|1996|4|9}}
+| ProdCode        = 1112
+| ShortSummary    = Feature Book: Uncle Jed's Barbershop
+Review Books: Zora Hurston and the Chinaberry Tree; Alvin Ailey; A Peddler's Dream
+}}
+{{Episode list
+| EpisodeNumber   = 118
+| EpisodeNumber2  = 3
+| Title           = [[How to Make an Apple Pie and See the World]]
+| DirectedBy      = [[Larry Lancit]] & [[Kevin Lombard]]
+| WrittenBy       = [[Andrew Gutelle]]
+| Aux2            = [[Helen Mirren]]
+| OriginalAirDate = {{Start date|1996|4|10}}
+| ProdCode        = 1113
+| ShortSummary    = Feature Book: How to Make an Apple Pie and See the World
+Review Books: The Edible Pyramid; The Kids Around the World Cookbook; What Food is This?
+}}
+{{Episode list
+| EpisodeNumber   = 119
+| EpisodeNumber2  = 4
+| Title           = [[Owen (Reading Rainbow)|Owen]]
+| DirectedBy      = [[Ed Wiseman (director)|Ed Wiseman]]
+| WrittenBy       = [[McPaul Smith]]
+| Aux2            = [[Matthew Broderick]]
+| OriginalAirDate = {{Start date|1996|4|11}}
+| ProdCode        = 1114
+| ShortSummary    = Feature Book: Owen
+Review Books: Ira Sleeps Over; Darcy and Gran Don't Like Babies; Born in the Gravy
+}}
+{{Episode list
+| EpisodeNumber   = 120
+| EpisodeNumber2  = 5
+| Title           = [[How Much is a Million?]]
+| DirectedBy      = [[Ed Wiseman (director)|Ed Wiseman]], [[Tony Jacobs]] & [[Barry Shapiro]]
+| WrittenBy       = [[Jill Gluckson]]
+| Aux2            = Nick Sullivan
+| OriginalAirDate = {{Start date|1996|4|12}}
+| ProdCode        = 1115
+| ShortSummary    = Feature Book: How Much is a Million?
+Review Books: Only One; One Hundred Hungry Ants; How Many Stars in the Sky?
+}}
+}}
+
+===Season 15 (1996)===
+{{Episode table |overall= |season= |title= |director= |writer= |aux2= |aux2T=Narrated by |airdate= |prodcode= |episodes=
+{{Episode list
+| EpisodeNumber   = 121
+| EpisodeNumber2  = 1
+| Title           = [[Always My Dad]]
+| DirectedBy      = [[Ed Wiseman (director)|Ed Wiseman]]
+| WrittenBy       = [[Lee Hunkins]]
+| Aux2            = [[BJ Crosby]]
+| OriginalAirDate = {{Start date|1996|10|7}}
+| ProdCode        = 1201
+| ShortSummary    = Feature Book: Always My Dad
+Review Books: Boundless Grace; The Perfect Spot; Taxi! Taxi!
+}}
+{{Episode list
+| EpisodeNumber   = 122
+| EpisodeNumber2  = 2
+| Title           = [[Bread is for Eating]]
+| DirectedBy      = [[Kevin Lombard]], [[Ed Wiseman (director)|Ed Wiseman]], & [[Tony Jacobs]]
+| WrittenBy       = [[Ronnie Krauss]] & [[Sharon Dennis Wyeth]]
+| Aux2            = [[Cecilia Arana]] and [[Michael Uribe]]
+| OriginalAirDate = {{Start date|1996|10|8}}
+| ProdCode        = 1202
+| ShortSummary    = Feature Book: Bread is for Eating
+Review Books: Bread, Bread, Bread; The Tortilla Factory; Walter the Baker
+}}
+{{Episode list
+| EpisodeNumber   = 123
+| EpisodeNumber2  = 3
+| Title           = [[Hotel Animal]]
+| DirectedBy      = [[Ed Wiseman (director)|Ed Wiseman]]
+| WrittenBy       = [[Ronnie Krauss]]
+| Aux2            = [[John Cunningham (American actor)|John Cunningham]]
+| OriginalAirDate = {{Start date|1996|10|9}}
+| ProdCode        = 1203
+| ShortSummary    = Feature Book: Hotel Animal
+Review Books: The Three Bears; Mr. Tall and Mr. Small; Zoom
+}}
+{{Episode list
+| EpisodeNumber   = 124
+| EpisodeNumber2  = 4
+| Title           = Someplace Else
+| DirectedBy      = [[Kevin Lombard]]
+| WrittenBy       = [[Robert Stork]]
+| Aux2            = [[Carol Kane]]
+| OriginalAirDate = {{Start date|1996|10|10}}
+| ProdCode        = 1204
+| ShortSummary    = Feature Book: Someplace Else
+Review Books: Me on the Map; Town Mouse, Country Mouse; Somewhere in the World Right Now
+}}
+{{Episode list
+| EpisodeNumber   = 125
+| EpisodeNumber2  = 5
+| Title           = [[Zin! Zin! Zin! a Violin]]
+| DirectedBy      = [[Mark Mannucci]]
+| WrittenBy       = [[Ronnie Krauss]]
+| Aux2            = [[Gregory Hines]]
+| OriginalAirDate = {{Start date|1996|10|11}}
+| ProdCode        = 1205
+| ShortSummary    = Feature Book: Zin! Zin! Zin! a Violin
+Review Books: The Maestro Plays; Max Found Two Sticks; Meet the Orchestra
+}}
+}}
+
+===Season 16 (1997)===
+{{Episode table |overall= |season= |title= |director= |writer= |aux2= |aux2T=Narrated by |airdate= |prodcode= |episodes=
+{{Episode list
+| EpisodeNumber   = 126
+| EpisodeNumber2  = 1
+| Title           = [[On the Day You Were Born]]
+| DirectedBy      = [[Ed Wiseman (director)|Ed Wiseman]]
+| WrittenBy       = [[Billy Aronson]]
+| Aux2            = [[Patrick Stewart]]
+| OriginalAirDate = {{Start date|1997|4|7}}
+| ProdCode        = 1206
+| ShortSummary    = Feature Book: On the Day You Were Born
+Review Books: How You Were Born; One Round Moon and a Star for Me; A Teeny Tiny Baby
+}}
+{{Episode list
+| EpisodeNumber   = 127
+| EpisodeNumber2  = 2
+| Title           = [[Hip Cat]]
+| DirectedBy      = [[Mark Mannucci]]
+| WrittenBy       = [[McPaul Smith]]
+| Aux2            = [[Ann Duquesnay]]
+| OriginalAirDate = {{Start date|1997|4|8}}
+| ProdCode        = 1207
+| ShortSummary    = Feature Book: Hip Cat
+Review Books: Conga Crocodile; Charlie Parker Played Be Bop; Willie Jerome
+}}
+{{Episode list
+| EpisodeNumber   = 128
+| EpisodeNumber2  = 3
+| Title           = [[Regina's Big Mistake]]
+| DirectedBy      = [[Ed Wiseman (director)|Ed Wiseman]]
+| WrittenBy       = [[Ronnie Krauss]] & [[Renee Creange]]
+| Aux2            = [[Anna Holbrooks]]
+| OriginalAirDate = {{Start date|1997|4|9}}
+| ProdCode        = 1208
+| ShortSummary    = Feature Book: Regina's Big Mistake
+Review Books: The Little Painter of Sabana Grande; The Art Lesson; I Am an Artist
+}}
+{{Episode list
+| EpisodeNumber   = 129
+| EpisodeNumber2  = 4
+| Title           = [[Giving Thanks: A Native American Good Morning Message]]
+| DirectedBy      = [[Kevin Lombard]]
+| WrittenBy       = [[Ronnie Krauss]] & [[Ellen Doherty]]
+| Aux2            = [[Nicholson Earl Billey]]
+| OriginalAirDate = {{Start date|1997|4|10}}
+| ProdCode        = 1209
+| ShortSummary    = Feature Book: Giving Thanks: A Native American Good Morning Message
+Review Books: My First Green Book; A River Ran Wild; The Tremendous Tree Book
+}}
+{{Episode list
+| EpisodeNumber   = 130
+| EpisodeNumber2  = 5
+| Title           = [[The Carousel]]
+| DirectedBy      = [[Ed Wiseman (director)|Ed Wiseman]]
+| WrittenBy       = [[Jill Gluckson]]
+| Aux2            = [[Sarah Hubbard]]
+| OriginalAirDate = {{Start date|1997|4|11}}
+| ProdCode        = 1210
+| ShortSummary    = Feature Book: The Carousel
+Review Books: The Long Silk Strand; The Always Prayer Shawl; Up and Down on the Merry-Go-Round
+}}
+}}
+
+===Season 17 (1998)===
+{{Episode table |overall= |season= |title= |director= |writer= |aux2= |aux2T=Narrated by |airdate= |prodcode= |episodes=
+{{Episode list
+| EpisodeNumber   = 131
+| EpisodeNumber2  = 1
+| Title           = [[Math Curse]]
+| DirectedBy      = [[Ed Wiseman (director)|Ed Wiseman]]
+| WrittenBy       = [[Ronnie Krauss]]
+| Aux2            = [[Michelle Trachtenberg]]
+| OriginalAirDate = {{Start date|1998|10|5}}
+| ProdCode        = 1301
+| ShortSummary    = Feature Book: Math Curse
+Review Books: Pigs on a Blanket; Twelve Snails to One Lizard; Marvelous Math
+}}
+{{Episode list
+| EpisodeNumber   = 132
+| EpisodeNumber2  = 2
+| Title           = [[My Life with the Wave]]
+| DirectedBy      = [[Larry Lancit]]
+| WrittenBy       = [[Cecily Truett]]
+| Aux2            = [[Scott Irby-Ranniar]]
+| OriginalAirDate = {{Start date|1998|10|6}}
+| ProdCode        = 1302
+| ShortSummary    = Feature Book: My Life with the Wave
+Review Books: Water Dance; Our Wet World; Here is the Coral Reef
+}}
+{{Episode list
+| EpisodeNumber   = 133
+| EpisodeNumber2  = 3
+| Title           = [[Saturday Sancocho]]
+| DirectedBy      = [[Ed Wiseman (director)|Ed Wiseman]]
+| WrittenBy       = [[Ronnie Krauss]]
+| Aux2            = [[Jose de Guzman]]
+| OriginalAirDate = {{Start date|1998|10|7}}
+| ProdCode        = 1303
+| ShortSummary    = Feature Book: Saturday Sancocho
+Review Books: Mama Bear; The Pirate Cookbook; Mama Provi and the Pot of Rice
+}}
+{{Episode list
+| EpisodeNumber   = 134
+| EpisodeNumber2  = 4
+| Title           = [[When Aunt Lena Did the Rhumba]]
+| DirectedBy      = [[Mark Mannucci]]
+| WrittenBy       = [[Jill Gluckson]]
+| Aux2            = [[Lucie Arnaz]]
+| OriginalAirDate = {{Start date|1998|10|8}}
+| ProdCode        = 1304
+| ShortSummary    = Feature Book: When Aunt Lena Did the Rhumba
+Review Books: My Mama Had a Dancing Heart; The Dancing Man; The Old Man Who Loved to Sing
+}}
+{{Episode list
+| EpisodeNumber   = 135
+| EpisodeNumber2  = 5
+| Title           = Worksong
+| DirectedBy      = [[Ed Wiseman (director)|Ed Wiseman]]
+| WrittenBy       = [[Ronnie Krauss]]
+| Aux2            = [[David Canary]]
+| OriginalAirDate = {{Start date|1998|10|9}}
+| ProdCode        = 1305
+| ShortSummary    = Feature Book: Worksong
+Review Books: Work; I'm Going to Be a Firefighter and I'm Going to Be a Police Officer; A Day's Work
+}}
+}}
+
+===Season 18 (2000–01)===
+{{Episode table |overall= |season= |title= |director= |writer= |aux2= |aux2T=Narrated by |airdate= |prodcode= |episodes=
+{{Episode list
+| EpisodeNumber   = 136
+| EpisodeNumber2  = 1
+| Title           = [[The Shaman's Apprentice: A Tale of the Amazon Rain Forest]]
+| DirectedBy      = [[Kevin Lombard]]
+| WrittenBy       = [[Ronnie Krauss]]
+| Aux2            = [[Susan Sarandon]]
+| OriginalAirDate = {{Start date|2000|5|8}}
+| ProdCode        = 1401
+| ShortSummary    = Feature Book: The Shaman's Apprentice: A Tale of the Amazon Rain Forest
+Review Books: Amazon Diary; People in the Rainforest; Welcome to the Greenhouse
+}}
+{{Episode list
+| EpisodeNumber   = 137
+| EpisodeNumber2  = 2
+| Title           = [[Pet Stories You Don't Have to Walk]]
+| DirectedBy      = [[Larry Lancit]]
+| WrittenBy       = [[Cecily Truett]]
+| Aux2            = [[Jason Alexander]]
+| OriginalAirDate = {{Start date|2000|11|20}}
+| ProdCode        = 1402
+| ShortSummary    = *"Danny and the Dinosaur"
+*"A Dog's Tale"
+Review Books: Harry and Lulu; Aloha, Dolores; Moondogs
+}}
+{{Episode list
+| EpisodeNumber   = 138
+| EpisodeNumber2  = 3
+| Title           = [[Lemonade for Sale]]
+| DirectedBy      = [[Ed Wiseman (director)|Ed Wiseman]]
+| WrittenBy       = [[Robert Stork]]
+| Aux2            = [[Andrea McArdle]]
+| OriginalAirDate = {{Start date|2001|1|19}}
+| ProdCode        = 1403
+| ShortSummary    = Feature Book: Lemonade for Sale
+Review Books: Lulu's Lemonade; Neale S. Godfrey's Ultimate Kids' Money Book; How the Second Grade Got $8,205.50 to Visit the Statue of Liberty
+}}
+{{Episode list
+| EpisodeNumber   = 139
+| EpisodeNumber2  = 4
+| Title           = [[The Secret Shortcut]]
+| DirectedBy      = [[Ed Wiseman (director)|Ed Wiseman]]
+| WrittenBy       = [[Susan Kim]]
+| Aux2            = [[Tim Conway]]
+| OriginalAirDate = {{Start date|2001|2|16}}
+| ProdCode        = 1404
+| ShortSummary    = Feature Book: The Secret Shortcut
+Review Books: Mapping Penny's World; Pipsqueaks! Maze School; How Tall, How Short, How Faraway
+}}
+{{Episode list
+| EpisodeNumber   = 140
+| EpisodeNumber2  = 5
+| Title           = [[My America: A Poetry Atlas of the United States]]
+| DirectedBy      = [[Ed Wiseman (director)|Ed Wiseman]]
+| WrittenBy       = [[Susan Kim]]
+| Aux2            = [[Lea Salonga]] (Mauna Loa), [[Tom and Ray Magliozzi]] (New England Lighthouse), and [[Nikki Giovanni]] (Knoxville, Tennessee)
+| OriginalAirDate = {{Start date|2001|3|16}}
+| ProdCode        = 1405
+| ShortSummary    = Feature Book: My America: A Poetry Atlas of the United States
+Review Books: The Scrambled States of America; Tulip Sees America; Celebrate the 50 States!
+}}
+{{Episode list
+| EpisodeNumber   = 141
+| EpisodeNumber2  = 6
+| Title           = [[Badger's Parting Gifts]]
+| DirectedBy      = [[Ed Wiseman (director)|Ed Wiseman]]
+| WrittenBy       = [[Jill Gluckson]]
+| Aux2            = [[Ruby Dee]]
+| OriginalAirDate = {{Start date|2001|4|20}}
+| ProdCode        = 1406
+| ShortSummary    = Feature Book: Badger's Parting Gifts
+Review Books: The Grandad Tree; The Tenth Good Thing About Barney; A Gift for Abuelita: Celebrating the Day of the Dead
+}}
+}}
+
+===Season 19 (2002)===
+All episodes this season were directed by Ed Wiseman.
+{{Episode table |overall= |season= |title= |writer= |aux2= |aux2T=Narrated by |airdate= |prodcode= |episodes=
+{{Episode list
+| EpisodeNumber   = 142
+| EpisodeNumber2  = 1
+| Title           = [[The Tin Forest]]
+| WrittenBy       = [[Ronnie Krauss]]
+| Aux2            = [[Jeff Bridges]]
+| OriginalAirDate = {{Start date|2002|9|3}}
+| ProdCode        = 1407
+| ShortSummary    = Feature Book: The Tin Forest
+Review Books: On That Day; Mole Music; The Wonderful Happens
+}}
+{{Episode list
+| EpisodeNumber   = 143
+| EpisodeNumber2  = 2
+| Title           = [[Max (children's book)|Max]]
+| WrittenBy       = [[Susan Kim]]
+| Aux2            = [[Regina King]] and [[Ian Desdone]]
+| OriginalAirDate = {{Start date|2002|9|4}}
+| ProdCode        = 1408
+| ShortSummary    = Feature Book: Max
+Review Books: The Mitten Tree; If a Bus Could Talk: The Story of Rosa Parks; Sosu's Call
+}}
+{{Episode list
+| EpisodeNumber   = 144
+| EpisodeNumber2  = 3
+| Title           = [[Enemy Pie]]
+| WrittenBy       = [[Ronnie Krauss]]
+| Aux2            = [[Ed Harris]]
+| OriginalAirDate = {{Start date|2002|9|5}}
+| ProdCode        = 1409
+| ShortSummary    = Feature Book: Enemy Pie
+Review Books: Don't Laugh at Me; The Brand New Kid; Hey, Little Ant
+}}
+{{Episode list
+| EpisodeNumber   = 145
+| EpisodeNumber2  = 4
+| Title           = [[Our Big Home: An Earth Poem]]
+| WrittenBy       = [[Susan Kim]]
+| Aux2            = [[Naomi Judd]]
+| OriginalAirDate = {{Start date|2002|9|6}}
+| ProdCode        = 1410
+| ShortSummary    = Feature Book: Our Big Home: An Earth Poem
+Review Books: Take Action: A Guide to Active Citizenship; Whoever You Are
+}}
+}}
+
+===Season 20 (2004–05)===
+All episodes this season were directed by Ed Wiseman.
+{{Episode table |overall= |season= |title= |writer= |aux2= |aux2T=Narrated by |airdate= |prodcode= |episodes=
+{{Episode list
+| EpisodeNumber   = 146
+| EpisodeNumber2  = 1
+| Title           = [[Visiting Day]]
+| WrittenBy       = [[Ronnie Krauss]]
+| Aux2            = [[Alfre Woodard]]
+| OriginalAirDate = {{Start date|2004|12|15}}
+| ProdCode        = 1501
+| ShortSummary    = Feature Book: Visiting Day
+Review Books: Finding the Right Spot; Let's Talk About When Your Parent is in Jail; Mama Loves Me from Away
+}}
+{{Episode list
+| EpisodeNumber   = 147
+| EpisodeNumber2  = 2
+| Title           = [[Unique Monique]]
+| WrittenBy       = [[Jill Gluckson]]
+| Aux2            = [[Eliza Dushku]]
+| OriginalAirDate = {{Start date|2004|12|16}}
+| ProdCode        = 1502
+| ShortSummary    = Feature Book: Unique Monique
+Review Books: Daffodil; I'm Gonna Like Me; The Name Jar
+}}
+{{Episode list
+| EpisodeNumber   = 148
+| EpisodeNumber2  = 3
+| Title           = [[Mr. George Baker]]
+| WrittenBy       = [[Ronnie Krauss]]
+| Aux2            = [[Wayne Brady]]
+| OriginalAirDate = {{Start date|2004|12|17}}
+| ProdCode        = 1503
+| ShortSummary    = Feature Book: Mr. George Baker
+Review Books: The Music in Derrick's Heart; Grandfather Counts; A Bird About to Sing
+}}
+{{Episode list
+| EpisodeNumber   = 149
+| EpisodeNumber2  = 4
+| Title           = [[Beegu]]
+| WrittenBy       = [[Twila Liggett]]
+| Aux2            = [[Freddie Prinze Jr.]]
+| OriginalAirDate = {{Start date|2005|1|20}}
+| ProdCode        = 1504
+| ShortSummary    = Feature Book: Beegu
+Review Books: Space Exploration; Planets: A Solar System Stickerbook; Rise the Moon
+}}
+{{Episode list
+| EpisodeNumber   = 150
+| EpisodeNumber2  = 5
+| Title           = [[Two Old Potatoes and Me]]
+| WrittenBy       = [[Ronnie Krauss]]
+| Aux2            = [[Jordan Puryear]]
+| OriginalAirDate = {{Start date|2005|1|21}}
+| ProdCode        = 1505
+| ShortSummary    = Feature Book: Two Old Potatoes and Me
+Review Books: Weslandia; Diary of a Worm; Pie in the Sky
+}}
+}}
+
+===Season 21 (2006)===
+{{Episode table |overall= |season= |title= |director= |writer= |aux2= |aux2T=Narrated by |airdate= |prodcode= |episodes=
+{{Episode list
+| EpisodeNumber   = 151
+| EpisodeNumber2  = 1
+| Title           = [[The Biggest Test in the Universe]]
+| DirectedBy      = [[Ed Wiseman (director)|Ed Wiseman]]
+| WrittenBy       = [[Ronnie Krauss]]
+| Aux2            = [[Richard Gere]]
+| OriginalAirDate = {{Start date|2006|11|6}}
+| ProdCode        = 1601
+| ShortSummary    = Feature Book: The Biggest Test in the Universe
+Review Books: Angelina on Stage; Beverly Billingsly Takes a Bow; Wemberly Worried
+}}
+{{Episode list
+| EpisodeNumber   = 152
+| EpisodeNumber2  = 2
+| Title           = [[I Lost My Tooth in Africa]]
+| DirectedBy      = [[Mark Mannucci]]
+| WrittenBy       = [[Ronnie Krauss]]
+| Aux2            = 
+| OriginalAirDate = {{Start date|2006|11|7}}
+| ProdCode        = 1602
+| ShortSummary    = Feature Book: I Lost My Tooth in Africa
+Review Books: Madlenka; Rites of Passage: Coming of Age; My Wobbly Tooth Must Not Ever Never Fall Out
+}}
+{{Episode list
+| EpisodeNumber   = 153
+| EpisodeNumber2  = 3
+| Title           = [[Boxes for Katje]]
+| DirectedBy      = [[Ed Wiseman (director)|Ed Wiseman]]
+| WrittenBy       = [[Ronnie Krauss]]
+| Aux2            = [[Elizabeth Jute]]
+| OriginalAirDate = {{Start date|2006|11|8}}
+| ProdCode        = 1603
+| ShortSummary    = Feature Book: Boxes for Katje
+Review Books: Luba: As Told to Michelle R. McCann; Librarian of Basra; The Lady in the Box
+}}
+{{Episode list
+| EpisodeNumber   = 154
+| EpisodeNumber2  = 4
+| Title           = [[Game Day (book)|Game Day]]
+| DirectedBy      = [[Ed Wiseman (director)|Ed Wiseman]]
+| WrittenBy       = [[Ed Wiseman (director)|Ed Wiseman]]
+| Aux2            = [[James Avery]]
+| OriginalAirDate = {{Start date|2006|11|9}}
+| ProdCode        = 1604
+| ShortSummary    = Feature Book: Game Day
+Review Books: The Blue Ribbon Day; Pecorino Plays Ball; Winners Never Quit
+}}
+{{Episode list
+| EpisodeNumber   = 155
+| EpisodeNumber2  = 5
+| Title           = [[Show Way]]
+| DirectedBy      = [[Ed Wiseman (director)|Ed Wiseman]]
+| WrittenBy       = [[Ronnie Krauss]]
+| Aux2            = [[Diahann Carroll]]
+| OriginalAirDate = {{Start date|2006|11|10}}
+| ProdCode        = 1605
+| ShortSummary    = Feature Book: Show Way
+Review Books: The Kids' Family Tree Book; What a Family!; Seven Brave Women
+}}
+}}
+
+===Season 22 (2025)===
+{{Episode table |overall= |season= |title= |director= |writer= |aux2= |aux2T=Narrated by |airdate= |prodcode= |episodes=
+{{Episode list
+| EpisodeNumber   = 156
+| EpisodeNumber2  = 1
+| Title           = [[No Cats in the Library!]]
+| DirectedBy      = 
+| WrittenBy       = 
+| Aux2            = [[Jamie Chung]]
+| OriginalAirDate = {{Start date|2025|10|4}}
+| ProdCode        = 1701
+| ShortSummary    = Feature Book: No Cats in the Library!
+Review: No. 5 Bubblegum Street; Rescuing Rumba; Jonty Gentoo: The Adventures of a Penguin
+}}
+{{Episode list
+| EpisodeNumber   = 157
+| EpisodeNumber2  = 2
+| Title           = [[Tiny Troubles: Nelli's Purpose]]
+| DirectedBy      = 
+| WrittenBy       = 
+| Aux2            = [[Chrissy Teigen]] and [[John Legend]]
+| OriginalAirDate = {{Start date|2025|10|11}}
+| ProdCode        = 1702
+| ShortSummary    = Feature Book: Tiny Troubles: Nelli's Purpose
+Review: Soar; Together, United; I Want to Dance in Pants
+}}
+{{Episode list
+| EpisodeNumber   = 158
+| EpisodeNumber2  = 3
+| Title           = [[More Than Peach]]
+| DirectedBy      = 
+| WrittenBy       = 
+| Aux2            = [[Gabrielle Union]]
+| OriginalAirDate = {{Start date|2025|10|18}}
+| ProdCode        = 1703
+| ShortSummary    = Feature Book: More Than Peach
+Review: I Am Odd, I Am Enough; Ballet Brown; You Are Enough: A Story About Inclusion
+}}
+{{Episode list
+| EpisodeNumber   = 159
+| EpisodeNumber2  = 4
+| Title           = [[Moo Hoo]]
+| DirectedBy      = 
+| WrittenBy       = 
+| Aux2            = [[ Adam DeVine]]
+| OriginalAirDate = {{Start date|2025|10|25}}
+| ProdCode        = 1704
+| ShortSummary    = Feature Book: Moo Hoo
+Review: Jocelyn's Box of Socks; Max's Box: Letting Go of Big Feelings; My Big Embarrassing Elephant
+}}
+}}
+
+==VHS releases distributed by PBS and Pacific Arts==
+{| class="wikitable plainrowheaders sortable"
+|-
+! Title
+! Release date
+! Notes
+|-
+| ''Volume 1'' || August 13, 1992 || "Rumpelstiltskin", and "Snowy Day: Stories and Poems"
+|-
+| ''Volume 2'' || August 13, 1992 || "Dive to the Coral Reef", and "The Magic School Bus: Inside the Earth"
+|-
+| ''Volume 3'' || August 13, 1992 || "Mummies Made in Egypt", and "Bringing the Rain to Kapiti Plain"
+|-
+| ''Volume 4'' || August 13, 1992 || "The Legend of the Indian Paintbrush", and "The Life Cycle of the Honeybee"
+|-
+| ''Volume 5'' || August 13, 1992 || "The Bicycle Man", and "The Adventures Of Taxi Dog"
+|-
+| ''Volume 6'' || August 13, 1992 || "Opt: An Illusionary Tale", and "A Three Hat Day"
+|}
+
+==DVD releases==
+{|class="wikitable"
+|-
+!DVD name
+!# of episodes
+!Release date
+!No. of discs
+|-
+|Reading Rainbow Favorites
+|align="center"|8
+|July 18, 2006
+|align="center"|4
+|-
+|Reading Rainbow: Family Matters
+|align="center"|2
+|July 18, 2006
+|align="center"|1
+|-
+|Reading Rainbow: Man's Best Friend
+|align="center"|2
+|July 18, 2006
+|align="center"|1
+|-
+|Reading Rainbow: Ocean Life
+|align="center"|2
+|July 18, 2006
+|align="center"|1
+|-
+|Reading Rainbow: Music, Music Everywhere
+|align="center"|2
+|July 18, 2006
+|align="center"|1
+|-
+|Reading Rainbow: Let's Go!
+|align="center"|2
+|September 12, 2006
+|align="center"|1
+|-
+|Reading Rainbow: How's That Made?
+|align="center"|2
+|September 12, 2006
+|align="center"|1
+|-
+|Reading Rainbow: Birds of a Feather
+|align="center"|2
+|September 12, 2006
+|align="center"|1
+|-
+|Reading Rainbow: Desert Life
+|align="center"|2
+|September 12, 2006
+|align="center"|1
+|-
+|Reading Rainbow: Sea To Shining Sea – Stories of America
+|align="center"|2
+|November 7, 2006
+|align="center"|1
+|-
+|Reading Rainbow: Farm Life
+|align="center"|2
+|November 7, 2006
+|align="center"|1
+|-
+|Reading Rainbow: Math Is Everywhere
+|align="center"|2
+|November 7, 2006
+|align="center"|1
+|-
+|Reading Rainbow: Buried Treasures
+|align="center"|2
+|November 7, 2006
+|align="center"|1
+|-
+|Reading Rainbow: If You Give a Mouse a Cookie
+|align="center"|4
+|May 12, 2015
+|align="center"|1
+|-
+|Reading Rainbow: Animal Cafe
+|align="center"|4
+|June 30, 2015
+|align="center"|1
+|-
+|Reading Rainbow: Miss Nelson Is Back
+|align="center"|4
+|January 12, 2016
+|align="center"|1
+|-
+|Reading Rainbow: LeVar's Favorites
+|align="center"|5
+|May 10, 2016
+|align="center"|1
+|}
+
+==References==
+{{reflist}}
+
+{{DISPLAYTITLE:List of ''Reading Rainbow'' episodes}}
+
+{{DEFAULTSORT:List Of Rapping Rainbow Episodes}}
+[[Category:Lists of American children's television series episodes|Reading Rainbow]]
+[[Category:Reading Rainbow|Episodes]]
