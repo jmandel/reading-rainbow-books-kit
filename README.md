@@ -27,6 +27,9 @@ Needs python3 (+ Pillow), ffmpeg, [uv](https://docs.astral.sh/uv/) (runs the lat
 with HTTP range support (e.g. caddy).
 1. `./fetch_all.sh` — re-run until nothing is missing (YouTube rate-limits). If a video has disappeared, find another
    upload of the episode, update its id in `episodes.tsv`, and re-check the phrases with `show.py` / `check.py`.
+   Episode 137 (`ia-S18E02`) isn't on YouTube; copy its audio track from archive.org without re-encoding:
+   `ffmpeg -i 'https://archive.org/download/ReadingRainbowTVSeries/Reading.Rainbow.S18E02.Pet.Stories.You.Dont.Have.to.Walk.480p.AMZN.WEB-DL.DD.2.0.x264-RTN.mkv' -map 0:a:0 -c copy s18/ia-S18E02.orig.mka`,
+   then make its captions with `whisper_vtt.py`.
 2. Add covers at `covers_final/<num>.jpg` (optional) and a podcast `cover.jpg` in the output folder.
 3. `python3 -I build.py episodes.tsv . <out_dir> https://<your-host>/<path>/ [num ...]` (pass `0` to only rewrite feed.xml).
 4. Serve `<out_dir>` somewhere only you can reach (or behind an unguessable path) and subscribe to `feed.xml`.
