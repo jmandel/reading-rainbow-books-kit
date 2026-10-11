@@ -25,7 +25,7 @@ def art(e):
     return dst
 def source(e):
     d=f"{src}/s{e['season']}"
-    a=[p for p in glob.glob(f"{d}/{e['id']}.orig.*") if p.endswith(('.webm','.m4a','.opus','.mp3'))]
+    a=[p for p in glob.glob(f"{d}/{e['id']}.orig.*") if p.endswith(('.webm','.m4a','.opus','.mp3','.mka'))]
     return (a[0] if a else None), f"{d}/{e['id']}.en.vtt"
 def cut(e):
     audio,vtt=source(e)

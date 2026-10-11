@@ -105,3 +105,10 @@ contributors and people in field segments): verify spellings outside the caption
 - Each quoted reviewer phrase was re-read in its source, with the same subject.
 - Every fact in the first two sections can be pointed to in a listed source.
 - `python3 lint_notes.py <your file>` prints nothing (section word counts, total 450-550, format).
+
+## Season 22 (episodes 156-160, the 2025 revival)
+
+The host is Mychal Threets, not LeVar Burton; read "LeVar" above as "the host" for these. wiki_episodes.txt may not
+list them; take season/episode numbers and the air date from master.tsv or the official Reading Rainbow / PBS pages,
+and the review books from the episode captions (write "Review books: not found" if there are none).
+Use "Reading Rainbow season 22, episode E (episode N overall)" with N = the podcast number.

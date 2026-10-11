@@ -1,10 +1,10 @@
 import re,html
 # Word-level (time, word) tokens from a YouTube VTT: exact word timings for auto-captions,
 # interpolated across each cue for hand-made captions.
-def sec(t):h,m,s=t.split(':');return int(h)*3600+int(m)*60+float(s)
+def sec(t):*h,m,s=t.split(':');return int(h[0] if h else 0)*3600+int(m)*60+float(s)  # hours are optional in VTT
 def tokens(path):
     txt=open(path).read()
-    cues=re.findall(r'(\d+:\d+:\d+\.\d+) --> (\d+:\d+:\d+\.\d+)[^\n]*\n(.*?)(?:\n\n|\Z)',txt,re.S)
+    cues=re.findall(r'((?:\d+:)?\d+:\d+\.\d+) --> ((?:\d+:)?\d+:\d+\.\d+)[^\n]*\n(.*?)(?:\n\n|\Z)',txt,re.S)
     auto='<c>' in txt
     out=[];seen_end=-1
     for a,b,body in cues:
