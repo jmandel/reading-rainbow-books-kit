@@ -4,7 +4,7 @@
 *.mp3
 *.part
 *.vtt
-s*/
+/s[0-9]*/
 covers_final/
 covers_work/
 __pycache__/
