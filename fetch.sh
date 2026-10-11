@@ -9,5 +9,5 @@ while IFS=$'\t' read -r num season id kind title; do
     ls -- "$d/$id".orig.* 2>/dev/null | grep -qv part && break; sleep $((try*20))
   done
   echo "$num $d $id $(ls -- "$d/$id".orig.* 2>/dev/null | grep -v part | head -1 || echo FAIL) vtt:$([ -f "$d/$id.en.vtt" ] && echo y || echo n)"
-  sleep 3
+  sleep 15
 done < "$1"

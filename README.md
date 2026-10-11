@@ -15,7 +15,8 @@ for personal use; please don't publish the resulting feed.
 - `fetch.sh` / `fetch_all.sh` — download original audio (YouTube Opus stream, no re-encode) + English captions into `s<season>/`.
 - `show.py <vtt> [from_min] [to_min]` — timestamped transcript; `check.py <rows.tsv>` — dry-run of the cuts, showing
   the words around every cut point.
-- `whisper_vtt.py` — local transcription (faster-whisper) for videos without captions.
+- `whisper_vtt.py` — local transcription (faster-whisper; GPU via pip CUDA libs, else CPU) for videos without captions.
+- `build_all.sh <out_dir> <base_url>` — build every episode one at a time; `status.sh` — list episodes missing audio/captions.
 - `build.py` — cuts each episode (single 192 kbps MP3 encode, loudness-normalized), embeds chapters and the book
   cover, and writes `feed.xml` (iTunes tags + Podlove Simple Chapters).
 - `covers_auto.py`, `bingimg.mjs` — helpers for finding book covers (put them at `covers_final/<num>.jpg`).
