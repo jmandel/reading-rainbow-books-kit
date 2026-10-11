@@ -1,0 +1,14 @@
+*.webm
+*.m4a
+*.opus
+*.mp3
+*.part
+*.vtt
+s*/
+covers_final/
+covers_work/
+__pycache__/
+*.log
+*.bak
+.feed-token
+.fetch_queue.tsv
