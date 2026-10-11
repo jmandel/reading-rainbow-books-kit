@@ -1,5 +1,6 @@
 import sys,os,re,glob,subprocess,tempfile,json,email.utils,datetime
 from xml.sax.saxutils import escape
+import markdown  # show notes: src_root/notes/<num>.md
 sys.path.insert(0,os.path.dirname(os.path.abspath(__file__)))
 from tokens import tokens,find
 # usage: build.py episodes.tsv src_root out_dir base_url [num ...]
@@ -75,10 +76,14 @@ for e in eps:
     hms=lambda x:f"{int(x//3600):02d}:{int(x%3600//60):02d}:{x%60:06.3f}"
     psc=(f'\n    <psc:chapters version="1.2"><psc:chapter start="00:00:00.000" title="Introduction"/>'
          f'<psc:chapter start="{hms(chap)}" title="{escape(e["title"])}"/></psc:chapters>') if chap is not None else ''
+    line=e['title']+', '+e['credit']+'. Reading Rainbow season '+e['season']+', episode '+e['num']+' ('+e['date'][:4]+').'
+    nf=f"{src}/notes/{e['num']}.md"
+    desc=f"<p>{escape(line)}</p>\n"+markdown.markdown(open(nf).read()) if os.path.exists(nf) else line
     a=f"art/{slug(e)[:-4]}.jpg"; img=f'\n    <itunes:image href="{escape(base+a)}"/>' if os.path.exists(f"{out}/{a}") else ''
     items.append(f"""  <item>
     <title>{escape(e['title'])}</title>
-    <description>{escape(e['title']+', '+e['credit']+'. Reading Rainbow season '+e['season']+', episode '+e['num']+' ('+e['date'][:4]+').')}</description>
+    <description>{escape(desc)}</description>
+    <content:encoded><![CDATA[{desc.replace(']]>',']]&gt;')}]]></content:encoded>
     <enclosure url="{escape(url)}" length="{os.path.getsize(p)}" type="audio/mpeg"/>
     <guid isPermaLink="false">reading-rainbow-{e['num']}</guid>
     <pubDate>{pub}</pubDate>
@@ -87,7 +92,7 @@ for e in eps:
     <itunes:episode>{e['num']}</itunes:episode>{img}{psc}
   </item>""")
 open(f"{out}/feed.xml",'w').write(f"""<?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:psc="http://podlove.org/simple-chapters">
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:psc="http://podlove.org/simple-chapters" xmlns:content="http://purl.org/rss/1.0/modules/content/">
 <channel>
   <title>Reading Rainbow Books</title>
   <link>{base}</link>
@@ -95,8 +100,8 @@ open(f"{out}/feed.xml",'w').write(f"""<?xml version="1.0" encoding="UTF-8"?>
   <language>en-us</language>
   <itunes:block>Yes</itunes:block>
   <itunes:type>serial</itunes:type>
-  <itunes:image href="{base}cover.jpg"/>
-  <image><url>{base}cover.jpg</url><title>Reading Rainbow Books</title><link>{base}</link></image>
+  <itunes:image href="{base}cover-books.jpg"/>
+  <image><url>{base}cover-books.jpg</url><title>Reading Rainbow Books</title><link>{base}</link></image>
 {chr(10).join(items)}
 </channel>
 </rss>
